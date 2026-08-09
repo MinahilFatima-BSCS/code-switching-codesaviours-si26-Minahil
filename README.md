@@ -1,13 +1,88 @@
-# Code Switching NLP | Code Saviours SI-26 | Minahil Fatima
+# 🔤 Urdu-English Code-Switching Classifier
 
-This project focuses on building a code-switching dataset containing naturally mixed Roman Urdu and English sentences.
+A Machine Learning and NLP project developed to classify text into **Urdu (URD), English (ENG), and Mixed Urdu-English (MIX)** categories.
 
-## Labels
+The project includes a trained classification model and an interactive **Streamlit web application** for testing code-switched text.
 
-* **URD** — Urdu / Roman Urdu
-* **ENG** — English
-* **MIX** — Mixed or ambiguous word
+## 🎯 Objectives
 
-## Project Goal
+* Classify Urdu, English, and mixed-language text.
+* Apply NLP preprocessing and Machine Learning techniques.
+* Build an interactive Streamlit application.
+* Deploy the application for online testing.
 
-The goal of this project is to create a dataset of 150+ naturally occurring Roman Urdu and English code-switching sentences for NLP research and language identification.
+## 🏷️ Categories
+
+| Label   | Description                  |
+| ------- | ---------------------------- |
+| **URD** | Urdu                         |
+| **ENG** | English                      |
+| **MIX** | Urdu-English / Code-Switched |
+
+### Example
+
+```text
+Main aaj computer science ka project complete kar rahi hoon.
+```
+
+**Expected Category:** MIX
+
+## 🛠️ Technologies
+
+* Python
+* NLP
+* Machine Learning
+* Pandas
+* NumPy
+* Scikit-learn
+* Streamlit
+* GitHub
+
+## 🔄 Workflow
+
+```text
+Dataset → Preprocessing → Feature Extraction
+→ Model Training → Classification → Streamlit
+```
+
+## 🌐 Live Demo
+
+**Streamlit App:**
+https://urdu-word-classifier-app-fo8aifmytruwmjmmf8ebgq.streamlit.app/
+
+## 💻 GitHub Repository
+
+**Source Code:**
+https://github.com/MinahilFatima-BSCS/code-switching-codesaviours-si26-Minahil
+
+The repository contains the dataset, notebooks, and project files.
+
+## 🧪 Testing
+
+Example inputs:
+
+```text
+I am going to university today.
+```
+
+```text
+Main aaj university ja rahi hoon.
+```
+
+```text
+پاکستان ایک خوبصورت ملک ہے۔
+```
+
+## 👩‍💻 Author
+
+**Minahil Fatima**
+BS Computer Science
+**Code Saviours SI-26**
+
+## 🙏 Credits
+
+This project was developed as part of the **Machine Learning / AI Internship Program at Code Saviours (SI-26)**.
+
+Special thanks to **Code Saviours** for their guidance, mentorship, and learning opportunity.
+
+**© 2026 Minahil Fatima**
