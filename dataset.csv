@@ -1,0 +1,2022 @@
+sentence,word,label
+Aaj mera mood nahi hai for anything.,Aaj,URD
+Aaj mera mood nahi hai for anything.,mera,URD
+Aaj mera mood nahi hai for anything.,mood,ENG
+Aaj mera mood nahi hai for anything.,nahi,URD
+Aaj mera mood nahi hai for anything.,hai,URD
+Aaj mera mood nahi hai for anything.,for,ENG
+Aaj mera mood nahi hai for anything.,anything,ENG
+Yaar seriously I can't even right now.,Yaar,URD
+Yaar seriously I can't even right now.,seriously,ENG
+Yaar seriously I can't even right now.,I,ENG
+Yaar seriously I can't even right now.,can't,ENG
+Yaar seriously I can't even right now.,even,ENG
+Yaar seriously I can't even right now.,right,ENG
+Yaar seriously I can't even right now.,now,ENG
+"Bhai kal mera presentation hai, still not prepared at all.",Bhai,URD
+"Bhai kal mera presentation hai, still not prepared at all.",kal,URD
+"Bhai kal mera presentation hai, still not prepared at all.",mera,URD
+"Bhai kal mera presentation hai, still not prepared at all.",presentation,ENG
+"Bhai kal mera presentation hai, still not prepared at all.",hai,URD
+"Bhai kal mera presentation hai, still not prepared at all.",still,ENG
+"Bhai kal mera presentation hai, still not prepared at all.",not,ENG
+"Bhai kal mera presentation hai, still not prepared at all.",prepared,ENG
+"Bhai kal mera presentation hai, still not prepared at all.",at,ENG
+"Bhai kal mera presentation hai, still not prepared at all.",all,ENG
+Khana kha liya? I was literally waiting for you.,Khana,URD
+Khana kha liya? I was literally waiting for you.,kha,URD
+Khana kha liya? I was literally waiting for you.,liya,URD
+Khana kha liya? I was literally waiting for you.,I,ENG
+Khana kha liya? I was literally waiting for you.,was,ENG
+Khana kha liya? I was literally waiting for you.,literally,ENG
+Khana kha liya? I was literally waiting for you.,waiting,ENG
+Khana kha liya? I was literally waiting for you.,for,ENG
+Khana kha liya? I was literally waiting for you.,you,ENG
+"Aaj ka din bohot busy tha, had three meetings back to back.",Aaj,URD
+"Aaj ka din bohot busy tha, had three meetings back to back.",ka,URD
+"Aaj ka din bohot busy tha, had three meetings back to back.",din,URD
+"Aaj ka din bohot busy tha, had three meetings back to back.",bohot,URD
+"Aaj ka din bohot busy tha, had three meetings back to back.",busy,ENG
+"Aaj ka din bohot busy tha, had three meetings back to back.",tha,URD
+"Aaj ka din bohot busy tha, had three meetings back to back.",had,ENG
+"Aaj ka din bohot busy tha, had three meetings back to back.",three,ENG
+"Aaj ka din bohot busy tha, had three meetings back to back.",meetings,ENG
+"Aaj ka din bohot busy tha, had three meetings back to back.",back,ENG
+"Aaj ka din bohot busy tha, had three meetings back to back.",to,ENG
+"Aaj ka din bohot busy tha, had three meetings back to back.",back,ENG
+Mujhe ye movie actually bohot interesting lagi.,Mujhe,URD
+Mujhe ye movie actually bohot interesting lagi.,ye,URD
+Mujhe ye movie actually bohot interesting lagi.,movie,ENG
+Mujhe ye movie actually bohot interesting lagi.,actually,ENG
+Mujhe ye movie actually bohot interesting lagi.,bohot,URD
+Mujhe ye movie actually bohot interesting lagi.,interesting,ENG
+Mujhe ye movie actually bohot interesting lagi.,lagi,URD
+"Yaar this weather is so nice, bahar chalain?",Yaar,URD
+"Yaar this weather is so nice, bahar chalain?",this,ENG
+"Yaar this weather is so nice, bahar chalain?",weather,ENG
+"Yaar this weather is so nice, bahar chalain?",is,URD
+"Yaar this weather is so nice, bahar chalain?",so,ENG
+"Yaar this weather is so nice, bahar chalain?",nice,ENG
+"Yaar this weather is so nice, bahar chalain?",bahar,ENG
+"Yaar this weather is so nice, bahar chalain?",chalain,ENG
+"Kal class mein assignment submit karna hai, I haven't finished it.",Kal,URD
+"Kal class mein assignment submit karna hai, I haven't finished it.",class,ENG
+"Kal class mein assignment submit karna hai, I haven't finished it.",mein,URD
+"Kal class mein assignment submit karna hai, I haven't finished it.",assignment,URD
+"Kal class mein assignment submit karna hai, I haven't finished it.",submit,ENG
+"Kal class mein assignment submit karna hai, I haven't finished it.",karna,URD
+"Kal class mein assignment submit karna hai, I haven't finished it.",hai,URD
+"Kal class mein assignment submit karna hai, I haven't finished it.",I,ENG
+"Kal class mein assignment submit karna hai, I haven't finished it.",haven't,ENG
+"Kal class mein assignment submit karna hai, I haven't finished it.",finished,ENG
+"Kal class mein assignment submit karna hai, I haven't finished it.",it,ENG
+"Mera phone slow ho gaya hai, I need to restart it.",Mera,URD
+"Mera phone slow ho gaya hai, I need to restart it.",phone,ENG
+"Mera phone slow ho gaya hai, I need to restart it.",slow,ENG
+"Mera phone slow ho gaya hai, I need to restart it.",ho,URD
+"Mera phone slow ho gaya hai, I need to restart it.",gaya,URD
+"Mera phone slow ho gaya hai, I need to restart it.",hai,URD
+"Mera phone slow ho gaya hai, I need to restart it.",I,ENG
+"Mera phone slow ho gaya hai, I need to restart it.",need,ENG
+"Mera phone slow ho gaya hai, I need to restart it.",to,ENG
+"Mera phone slow ho gaya hai, I need to restart it.",restart,ENG
+"Mera phone slow ho gaya hai, I need to restart it.",it,ENG
+Please mujhe bata dena when you reach home.,Please,ENG
+Please mujhe bata dena when you reach home.,mujhe,URD
+Please mujhe bata dena when you reach home.,bata,URD
+Please mujhe bata dena when you reach home.,dena,URD
+Please mujhe bata dena when you reach home.,when,ENG
+Please mujhe bata dena when you reach home.,you,ENG
+Please mujhe bata dena when you reach home.,reach,ENG
+Please mujhe bata dena when you reach home.,home,ENG
+"Abhi bohot kaam hai, I'll call you later.",Abhi,URD
+"Abhi bohot kaam hai, I'll call you later.",bohot,URD
+"Abhi bohot kaam hai, I'll call you later.",kaam,ENG
+"Abhi bohot kaam hai, I'll call you later.",hai,URD
+"Abhi bohot kaam hai, I'll call you later.",I'll,ENG
+"Abhi bohot kaam hai, I'll call you later.",call,ENG
+"Abhi bohot kaam hai, I'll call you later.",you,ENG
+"Abhi bohot kaam hai, I'll call you later.",later,ENG
+"Ye dress bohot cute hai, but thori expensive hai.",Ye,URD
+"Ye dress bohot cute hai, but thori expensive hai.",dress,ENG
+"Ye dress bohot cute hai, but thori expensive hai.",bohot,URD
+"Ye dress bohot cute hai, but thori expensive hai.",cute,ENG
+"Ye dress bohot cute hai, but thori expensive hai.",hai,URD
+"Ye dress bohot cute hai, but thori expensive hai.",but,ENG
+"Ye dress bohot cute hai, but thori expensive hai.",thori,URD
+"Ye dress bohot cute hai, but thori expensive hai.",expensive,ENG
+"Ye dress bohot cute hai, but thori expensive hai.",hai,URD
+"Main kal free hoon, we can meet in the evening.",Main,URD
+"Main kal free hoon, we can meet in the evening.",kal,URD
+"Main kal free hoon, we can meet in the evening.",free,ENG
+"Main kal free hoon, we can meet in the evening.",hoon,URD
+"Main kal free hoon, we can meet in the evening.",we,ENG
+"Main kal free hoon, we can meet in the evening.",can,ENG
+"Main kal free hoon, we can meet in the evening.",meet,ENG
+"Main kal free hoon, we can meet in the evening.",in,ENG
+"Main kal free hoon, we can meet in the evening.",the,ENG
+"Main kal free hoon, we can meet in the evening.",evening,ENG
+Bhai mujhe samajh nahi aa raha what to do next.,Bhai,URD
+Bhai mujhe samajh nahi aa raha what to do next.,mujhe,URD
+Bhai mujhe samajh nahi aa raha what to do next.,samajh,URD
+Bhai mujhe samajh nahi aa raha what to do next.,nahi,URD
+Bhai mujhe samajh nahi aa raha what to do next.,aa,ENG
+Bhai mujhe samajh nahi aa raha what to do next.,raha,URD
+Bhai mujhe samajh nahi aa raha what to do next.,what,ENG
+Bhai mujhe samajh nahi aa raha what to do next.,to,ENG
+Bhai mujhe samajh nahi aa raha what to do next.,do,URD
+Bhai mujhe samajh nahi aa raha what to do next.,next,ENG
+"Aaj office mein kaafi workload tha, but I managed everything.",Aaj,URD
+"Aaj office mein kaafi workload tha, but I managed everything.",office,ENG
+"Aaj office mein kaafi workload tha, but I managed everything.",mein,URD
+"Aaj office mein kaafi workload tha, but I managed everything.",kaafi,URD
+"Aaj office mein kaafi workload tha, but I managed everything.",workload,URD
+"Aaj office mein kaafi workload tha, but I managed everything.",tha,URD
+"Aaj office mein kaafi workload tha, but I managed everything.",but,ENG
+"Aaj office mein kaafi workload tha, but I managed everything.",I,ENG
+"Aaj office mein kaafi workload tha, but I managed everything.",managed,ENG
+"Aaj office mein kaafi workload tha, but I managed everything.",everything,ENG
+Yaar tumhari presentation was really good.,Yaar,URD
+Yaar tumhari presentation was really good.,tumhari,URD
+Yaar tumhari presentation was really good.,presentation,ENG
+Yaar tumhari presentation was really good.,was,ENG
+Yaar tumhari presentation was really good.,really,ENG
+Yaar tumhari presentation was really good.,good,ENG
+Mujhe lagta hai we should try this restaurant.,Mujhe,URD
+Mujhe lagta hai we should try this restaurant.,lagta,URD
+Mujhe lagta hai we should try this restaurant.,hai,URD
+Mujhe lagta hai we should try this restaurant.,we,ENG
+Mujhe lagta hai we should try this restaurant.,should,ENG
+Mujhe lagta hai we should try this restaurant.,try,ENG
+Mujhe lagta hai we should try this restaurant.,this,ENG
+Mujhe lagta hai we should try this restaurant.,restaurant,ENG
+"Kal ka lecture bohot boring tha, everyone was sleepy.",Kal,URD
+"Kal ka lecture bohot boring tha, everyone was sleepy.",ka,URD
+"Kal ka lecture bohot boring tha, everyone was sleepy.",lecture,ENG
+"Kal ka lecture bohot boring tha, everyone was sleepy.",bohot,URD
+"Kal ka lecture bohot boring tha, everyone was sleepy.",boring,ENG
+"Kal ka lecture bohot boring tha, everyone was sleepy.",tha,URD
+"Kal ka lecture bohot boring tha, everyone was sleepy.",everyone,ENG
+"Kal ka lecture bohot boring tha, everyone was sleepy.",was,ENG
+"Kal ka lecture bohot boring tha, everyone was sleepy.",sleepy,ENG
+Please meri file check kar do before I submit it.,Please,ENG
+Please meri file check kar do before I submit it.,meri,URD
+Please meri file check kar do before I submit it.,file,ENG
+Please meri file check kar do before I submit it.,check,ENG
+Please meri file check kar do before I submit it.,kar,URD
+Please meri file check kar do before I submit it.,do,URD
+Please meri file check kar do before I submit it.,before,ENG
+Please meri file check kar do before I submit it.,I,ENG
+Please meri file check kar do before I submit it.,submit,ENG
+Please meri file check kar do before I submit it.,it,ENG
+"Main ghar ja rahi hoon, will text you when I arrive.",Main,URD
+"Main ghar ja rahi hoon, will text you when I arrive.",ghar,URD
+"Main ghar ja rahi hoon, will text you when I arrive.",ja,URD
+"Main ghar ja rahi hoon, will text you when I arrive.",rahi,URD
+"Main ghar ja rahi hoon, will text you when I arrive.",hoon,URD
+"Main ghar ja rahi hoon, will text you when I arrive.",will,ENG
+"Main ghar ja rahi hoon, will text you when I arrive.",text,ENG
+"Main ghar ja rahi hoon, will text you when I arrive.",you,ENG
+"Main ghar ja rahi hoon, will text you when I arrive.",when,ENG
+"Main ghar ja rahi hoon, will text you when I arrive.",I,ENG
+"Main ghar ja rahi hoon, will text you when I arrive.",arrive,ENG
+Ye idea actually bohot useful hai for our project.,Ye,URD
+Ye idea actually bohot useful hai for our project.,idea,ENG
+Ye idea actually bohot useful hai for our project.,actually,ENG
+Ye idea actually bohot useful hai for our project.,bohot,URD
+Ye idea actually bohot useful hai for our project.,useful,ENG
+Ye idea actually bohot useful hai for our project.,hai,URD
+Ye idea actually bohot useful hai for our project.,for,ENG
+Ye idea actually bohot useful hai for our project.,our,ENG
+Ye idea actually bohot useful hai for our project.,project,ENG
+"Bhai result aa gaya hai, I am so nervous.",Bhai,URD
+"Bhai result aa gaya hai, I am so nervous.",result,ENG
+"Bhai result aa gaya hai, I am so nervous.",aa,ENG
+"Bhai result aa gaya hai, I am so nervous.",gaya,URD
+"Bhai result aa gaya hai, I am so nervous.",hai,URD
+"Bhai result aa gaya hai, I am so nervous.",I,ENG
+"Bhai result aa gaya hai, I am so nervous.",am,ENG
+"Bhai result aa gaya hai, I am so nervous.",so,ENG
+"Bhai result aa gaya hai, I am so nervous.",nervous,ENG
+Mujhe thora time chahiye to finish this work.,Mujhe,URD
+Mujhe thora time chahiye to finish this work.,thora,URD
+Mujhe thora time chahiye to finish this work.,time,ENG
+Mujhe thora time chahiye to finish this work.,chahiye,URD
+Mujhe thora time chahiye to finish this work.,to,ENG
+Mujhe thora time chahiye to finish this work.,finish,ENG
+Mujhe thora time chahiye to finish this work.,this,ENG
+Mujhe thora time chahiye to finish this work.,work,ENG
+"Aaj weather bohot acha hai, let's go outside.",Aaj,URD
+"Aaj weather bohot acha hai, let's go outside.",weather,ENG
+"Aaj weather bohot acha hai, let's go outside.",bohot,URD
+"Aaj weather bohot acha hai, let's go outside.",acha,URD
+"Aaj weather bohot acha hai, let's go outside.",hai,URD
+"Aaj weather bohot acha hai, let's go outside.",let's,ENG
+"Aaj weather bohot acha hai, let's go outside.",go,ENG
+"Aaj weather bohot acha hai, let's go outside.",outside,ENG
+"Yaar meri battery almost dead hai, charger hai tumhare paas?",Yaar,URD
+"Yaar meri battery almost dead hai, charger hai tumhare paas?",meri,URD
+"Yaar meri battery almost dead hai, charger hai tumhare paas?",battery,ENG
+"Yaar meri battery almost dead hai, charger hai tumhare paas?",almost,ENG
+"Yaar meri battery almost dead hai, charger hai tumhare paas?",dead,ENG
+"Yaar meri battery almost dead hai, charger hai tumhare paas?",hai,URD
+"Yaar meri battery almost dead hai, charger hai tumhare paas?",charger,ENG
+"Yaar meri battery almost dead hai, charger hai tumhare paas?",hai,URD
+"Yaar meri battery almost dead hai, charger hai tumhare paas?",tumhare,ENG
+"Yaar meri battery almost dead hai, charger hai tumhare paas?",paas,ENG
+"Main abhi busy hoon, can we talk later?",Main,URD
+"Main abhi busy hoon, can we talk later?",abhi,URD
+"Main abhi busy hoon, can we talk later?",busy,ENG
+"Main abhi busy hoon, can we talk later?",hoon,URD
+"Main abhi busy hoon, can we talk later?",can,ENG
+"Main abhi busy hoon, can we talk later?",we,ENG
+"Main abhi busy hoon, can we talk later?",talk,ENG
+"Main abhi busy hoon, can we talk later?",later,ENG
+"Ye song mujhe bohot pasand hai, especially the lyrics.",Ye,URD
+"Ye song mujhe bohot pasand hai, especially the lyrics.",song,ENG
+"Ye song mujhe bohot pasand hai, especially the lyrics.",mujhe,URD
+"Ye song mujhe bohot pasand hai, especially the lyrics.",bohot,URD
+"Ye song mujhe bohot pasand hai, especially the lyrics.",pasand,URD
+"Ye song mujhe bohot pasand hai, especially the lyrics.",hai,URD
+"Ye song mujhe bohot pasand hai, especially the lyrics.",especially,ENG
+"Ye song mujhe bohot pasand hai, especially the lyrics.",the,ENG
+"Ye song mujhe bohot pasand hai, especially the lyrics.",lyrics,ENG
+"Kal hum movie dekhne ja rahe hain, do you want to come?",Kal,URD
+"Kal hum movie dekhne ja rahe hain, do you want to come?",hum,ENG
+"Kal hum movie dekhne ja rahe hain, do you want to come?",movie,ENG
+"Kal hum movie dekhne ja rahe hain, do you want to come?",dekhne,ENG
+"Kal hum movie dekhne ja rahe hain, do you want to come?",ja,URD
+"Kal hum movie dekhne ja rahe hain, do you want to come?",rahe,URD
+"Kal hum movie dekhne ja rahe hain, do you want to come?",hain,URD
+"Kal hum movie dekhne ja rahe hain, do you want to come?",do,URD
+"Kal hum movie dekhne ja rahe hain, do you want to come?",you,ENG
+"Kal hum movie dekhne ja rahe hain, do you want to come?",want,ENG
+"Kal hum movie dekhne ja rahe hain, do you want to come?",to,ENG
+"Kal hum movie dekhne ja rahe hain, do you want to come?",come,ENG
+"Mera internet slow chal raha hai, I can't upload the file.",Mera,URD
+"Mera internet slow chal raha hai, I can't upload the file.",internet,ENG
+"Mera internet slow chal raha hai, I can't upload the file.",slow,ENG
+"Mera internet slow chal raha hai, I can't upload the file.",chal,ENG
+"Mera internet slow chal raha hai, I can't upload the file.",raha,URD
+"Mera internet slow chal raha hai, I can't upload the file.",hai,URD
+"Mera internet slow chal raha hai, I can't upload the file.",I,ENG
+"Mera internet slow chal raha hai, I can't upload the file.",can't,ENG
+"Mera internet slow chal raha hai, I can't upload the file.",upload,ENG
+"Mera internet slow chal raha hai, I can't upload the file.",the,ENG
+"Mera internet slow chal raha hai, I can't upload the file.",file,ENG
+"Bhai ye question easy hai, you can solve it.",Bhai,URD
+"Bhai ye question easy hai, you can solve it.",ye,URD
+"Bhai ye question easy hai, you can solve it.",question,ENG
+"Bhai ye question easy hai, you can solve it.",easy,ENG
+"Bhai ye question easy hai, you can solve it.",hai,URD
+"Bhai ye question easy hai, you can solve it.",you,ENG
+"Bhai ye question easy hai, you can solve it.",can,ENG
+"Bhai ye question easy hai, you can solve it.",solve,ENG
+"Bhai ye question easy hai, you can solve it.",it,ENG
+"Mujhe abhi bhook lagi hai, let's order something.",Mujhe,URD
+"Mujhe abhi bhook lagi hai, let's order something.",abhi,URD
+"Mujhe abhi bhook lagi hai, let's order something.",bhook,URD
+"Mujhe abhi bhook lagi hai, let's order something.",lagi,URD
+"Mujhe abhi bhook lagi hai, let's order something.",hai,URD
+"Mujhe abhi bhook lagi hai, let's order something.",let's,ENG
+"Mujhe abhi bhook lagi hai, let's order something.",order,ENG
+"Mujhe abhi bhook lagi hai, let's order something.",something,ENG
+"Aaj university mein bohot rush tha, it was exhausting.",Aaj,URD
+"Aaj university mein bohot rush tha, it was exhausting.",university,ENG
+"Aaj university mein bohot rush tha, it was exhausting.",mein,URD
+"Aaj university mein bohot rush tha, it was exhausting.",bohot,URD
+"Aaj university mein bohot rush tha, it was exhausting.",rush,ENG
+"Aaj university mein bohot rush tha, it was exhausting.",tha,URD
+"Aaj university mein bohot rush tha, it was exhausting.",it,ENG
+"Aaj university mein bohot rush tha, it was exhausting.",was,ENG
+"Aaj university mein bohot rush tha, it was exhausting.",exhausting,ENG
+Yaar honestly mujhe ye plan bilkul pasand nahi aya.,Yaar,URD
+Yaar honestly mujhe ye plan bilkul pasand nahi aya.,honestly,ENG
+Yaar honestly mujhe ye plan bilkul pasand nahi aya.,mujhe,URD
+Yaar honestly mujhe ye plan bilkul pasand nahi aya.,ye,URD
+Yaar honestly mujhe ye plan bilkul pasand nahi aya.,plan,ENG
+Yaar honestly mujhe ye plan bilkul pasand nahi aya.,bilkul,ENG
+Yaar honestly mujhe ye plan bilkul pasand nahi aya.,pasand,URD
+Yaar honestly mujhe ye plan bilkul pasand nahi aya.,nahi,URD
+Yaar honestly mujhe ye plan bilkul pasand nahi aya.,aya,URD
+"Main ne email send kar di hai, please check your inbox.",Main,URD
+"Main ne email send kar di hai, please check your inbox.",ne,URD
+"Main ne email send kar di hai, please check your inbox.",email,ENG
+"Main ne email send kar di hai, please check your inbox.",send,ENG
+"Main ne email send kar di hai, please check your inbox.",kar,URD
+"Main ne email send kar di hai, please check your inbox.",di,ENG
+"Main ne email send kar di hai, please check your inbox.",hai,URD
+"Main ne email send kar di hai, please check your inbox.",please,ENG
+"Main ne email send kar di hai, please check your inbox.",check,ENG
+"Main ne email send kar di hai, please check your inbox.",your,ENG
+"Main ne email send kar di hai, please check your inbox.",inbox,ENG
+"Kal se gym start karna hai, I really need motivation.",Kal,URD
+"Kal se gym start karna hai, I really need motivation.",se,URD
+"Kal se gym start karna hai, I really need motivation.",gym,ENG
+"Kal se gym start karna hai, I really need motivation.",start,ENG
+"Kal se gym start karna hai, I really need motivation.",karna,URD
+"Kal se gym start karna hai, I really need motivation.",hai,URD
+"Kal se gym start karna hai, I really need motivation.",I,ENG
+"Kal se gym start karna hai, I really need motivation.",really,ENG
+"Kal se gym start karna hai, I really need motivation.",need,ENG
+"Kal se gym start karna hai, I really need motivation.",motivation,ENG
+"Ye assignment complete hai, bas final review baqi hai.",Ye,URD
+"Ye assignment complete hai, bas final review baqi hai.",assignment,URD
+"Ye assignment complete hai, bas final review baqi hai.",complete,ENG
+"Ye assignment complete hai, bas final review baqi hai.",hai,URD
+"Ye assignment complete hai, bas final review baqi hai.",bas,URD
+"Ye assignment complete hai, bas final review baqi hai.",final,ENG
+"Ye assignment complete hai, bas final review baqi hai.",review,ENG
+"Ye assignment complete hai, bas final review baqi hai.",baqi,URD
+"Ye assignment complete hai, bas final review baqi hai.",hai,URD
+"Mujhe tumhari help chahiye, can you explain this part?",Mujhe,URD
+"Mujhe tumhari help chahiye, can you explain this part?",tumhari,URD
+"Mujhe tumhari help chahiye, can you explain this part?",help,ENG
+"Mujhe tumhari help chahiye, can you explain this part?",chahiye,URD
+"Mujhe tumhari help chahiye, can you explain this part?",can,ENG
+"Mujhe tumhari help chahiye, can you explain this part?",you,ENG
+"Mujhe tumhari help chahiye, can you explain this part?",explain,ENG
+"Mujhe tumhari help chahiye, can you explain this part?",this,ENG
+"Mujhe tumhari help chahiye, can you explain this part?",part,ENG
+"Aaj meeting cancel ho gayi, so we are free now.",Aaj,URD
+"Aaj meeting cancel ho gayi, so we are free now.",meeting,ENG
+"Aaj meeting cancel ho gayi, so we are free now.",cancel,ENG
+"Aaj meeting cancel ho gayi, so we are free now.",ho,URD
+"Aaj meeting cancel ho gayi, so we are free now.",gayi,URD
+"Aaj meeting cancel ho gayi, so we are free now.",so,ENG
+"Aaj meeting cancel ho gayi, so we are free now.",we,ENG
+"Aaj meeting cancel ho gayi, so we are free now.",are,ENG
+"Aaj meeting cancel ho gayi, so we are free now.",free,ENG
+"Aaj meeting cancel ho gayi, so we are free now.",now,ENG
+"Yaar first episode was amazing, story bohot interesting thi.",Yaar,URD
+"Yaar first episode was amazing, story bohot interesting thi.",first,ENG
+"Yaar first episode was amazing, story bohot interesting thi.",episode,ENG
+"Yaar first episode was amazing, story bohot interesting thi.",was,ENG
+"Yaar first episode was amazing, story bohot interesting thi.",amazing,ENG
+"Yaar first episode was amazing, story bohot interesting thi.",story,ENG
+"Yaar first episode was amazing, story bohot interesting thi.",bohot,URD
+"Yaar first episode was amazing, story bohot interesting thi.",interesting,ENG
+"Yaar first episode was amazing, story bohot interesting thi.",thi,URD
+"Main thak gayi hoon, I just want to sleep.",Main,URD
+"Main thak gayi hoon, I just want to sleep.",thak,ENG
+"Main thak gayi hoon, I just want to sleep.",gayi,URD
+"Main thak gayi hoon, I just want to sleep.",hoon,URD
+"Main thak gayi hoon, I just want to sleep.",I,ENG
+"Main thak gayi hoon, I just want to sleep.",just,ENG
+"Main thak gayi hoon, I just want to sleep.",want,ENG
+"Main thak gayi hoon, I just want to sleep.",to,ENG
+"Main thak gayi hoon, I just want to sleep.",sleep,ENG
+Please mujhe remind kar dena about the meeting tomorrow.,Please,ENG
+Please mujhe remind kar dena about the meeting tomorrow.,mujhe,URD
+Please mujhe remind kar dena about the meeting tomorrow.,remind,ENG
+Please mujhe remind kar dena about the meeting tomorrow.,kar,URD
+Please mujhe remind kar dena about the meeting tomorrow.,dena,URD
+Please mujhe remind kar dena about the meeting tomorrow.,about,ENG
+Please mujhe remind kar dena about the meeting tomorrow.,the,ENG
+Please mujhe remind kar dena about the meeting tomorrow.,meeting,ENG
+Please mujhe remind kar dena about the meeting tomorrow.,tomorrow,ENG
+"Bhai ye laptop bohot acha hai, but it's out of my budget.",Bhai,URD
+"Bhai ye laptop bohot acha hai, but it's out of my budget.",ye,URD
+"Bhai ye laptop bohot acha hai, but it's out of my budget.",laptop,ENG
+"Bhai ye laptop bohot acha hai, but it's out of my budget.",bohot,URD
+"Bhai ye laptop bohot acha hai, but it's out of my budget.",acha,URD
+"Bhai ye laptop bohot acha hai, but it's out of my budget.",hai,URD
+"Bhai ye laptop bohot acha hai, but it's out of my budget.",but,ENG
+"Bhai ye laptop bohot acha hai, but it's out of my budget.",it's,ENG
+"Bhai ye laptop bohot acha hai, but it's out of my budget.",out,ENG
+"Bhai ye laptop bohot acha hai, but it's out of my budget.",of,ENG
+"Bhai ye laptop bohot acha hai, but it's out of my budget.",my,ENG
+"Bhai ye laptop bohot acha hai, but it's out of my budget.",budget,ENG
+"Main abhi market mein hoon, do you need anything?",Main,URD
+"Main abhi market mein hoon, do you need anything?",abhi,URD
+"Main abhi market mein hoon, do you need anything?",market,ENG
+"Main abhi market mein hoon, do you need anything?",mein,URD
+"Main abhi market mein hoon, do you need anything?",hoon,URD
+"Main abhi market mein hoon, do you need anything?",do,URD
+"Main abhi market mein hoon, do you need anything?",you,ENG
+"Main abhi market mein hoon, do you need anything?",need,ENG
+"Main abhi market mein hoon, do you need anything?",anything,ENG
+Mujhe lagta hai ye option is better for us.,Mujhe,URD
+Mujhe lagta hai ye option is better for us.,lagta,URD
+Mujhe lagta hai ye option is better for us.,hai,URD
+Mujhe lagta hai ye option is better for us.,ye,URD
+Mujhe lagta hai ye option is better for us.,option,ENG
+Mujhe lagta hai ye option is better for us.,is,URD
+Mujhe lagta hai ye option is better for us.,better,ENG
+Mujhe lagta hai ye option is better for us.,for,ENG
+Mujhe lagta hai ye option is better for us.,us,URD
+"Aaj ka test difficult tha, but I tried my best.",Aaj,URD
+"Aaj ka test difficult tha, but I tried my best.",ka,URD
+"Aaj ka test difficult tha, but I tried my best.",test,ENG
+"Aaj ka test difficult tha, but I tried my best.",difficult,ENG
+"Aaj ka test difficult tha, but I tried my best.",tha,URD
+"Aaj ka test difficult tha, but I tried my best.",but,ENG
+"Aaj ka test difficult tha, but I tried my best.",I,ENG
+"Aaj ka test difficult tha, but I tried my best.",tried,ENG
+"Aaj ka test difficult tha, but I tried my best.",my,ENG
+"Aaj ka test difficult tha, but I tried my best.",best,ENG
+Yaar tum itna late kyun aye? We were waiting for you.,Yaar,URD
+Yaar tum itna late kyun aye? We were waiting for you.,tum,URD
+Yaar tum itna late kyun aye? We were waiting for you.,itna,ENG
+Yaar tum itna late kyun aye? We were waiting for you.,late,ENG
+Yaar tum itna late kyun aye? We were waiting for you.,kyun,URD
+Yaar tum itna late kyun aye? We were waiting for you.,aye,ENG
+Yaar tum itna late kyun aye? We were waiting for you.,We,ENG
+Yaar tum itna late kyun aye? We were waiting for you.,were,ENG
+Yaar tum itna late kyun aye? We were waiting for you.,waiting,ENG
+Yaar tum itna late kyun aye? We were waiting for you.,for,ENG
+Yaar tum itna late kyun aye? We were waiting for you.,you,ENG
+Kal presentation hai aur meri preparation abhi tak complete nahi hui.,Kal,URD
+Kal presentation hai aur meri preparation abhi tak complete nahi hui.,presentation,ENG
+Kal presentation hai aur meri preparation abhi tak complete nahi hui.,hai,URD
+Kal presentation hai aur meri preparation abhi tak complete nahi hui.,aur,URD
+Kal presentation hai aur meri preparation abhi tak complete nahi hui.,meri,URD
+Kal presentation hai aur meri preparation abhi tak complete nahi hui.,preparation,ENG
+Kal presentation hai aur meri preparation abhi tak complete nahi hui.,abhi,URD
+Kal presentation hai aur meri preparation abhi tak complete nahi hui.,tak,ENG
+Kal presentation hai aur meri preparation abhi tak complete nahi hui.,complete,ENG
+Kal presentation hai aur meri preparation abhi tak complete nahi hui.,nahi,URD
+Kal presentation hai aur meri preparation abhi tak complete nahi hui.,hui,ENG
+"Main ye document download kar rahi hoon, wait for a minute.",Main,URD
+"Main ye document download kar rahi hoon, wait for a minute.",ye,URD
+"Main ye document download kar rahi hoon, wait for a minute.",document,ENG
+"Main ye document download kar rahi hoon, wait for a minute.",download,ENG
+"Main ye document download kar rahi hoon, wait for a minute.",kar,URD
+"Main ye document download kar rahi hoon, wait for a minute.",rahi,URD
+"Main ye document download kar rahi hoon, wait for a minute.",hoon,URD
+"Main ye document download kar rahi hoon, wait for a minute.",wait,ENG
+"Main ye document download kar rahi hoon, wait for a minute.",for,ENG
+"Main ye document download kar rahi hoon, wait for a minute.",a,ENG
+"Main ye document download kar rahi hoon, wait for a minute.",minute,ENG
+"Ye place bohot peaceful hai, I really like it here.",Ye,URD
+"Ye place bohot peaceful hai, I really like it here.",place,ENG
+"Ye place bohot peaceful hai, I really like it here.",bohot,URD
+"Ye place bohot peaceful hai, I really like it here.",peaceful,ENG
+"Ye place bohot peaceful hai, I really like it here.",hai,URD
+"Ye place bohot peaceful hai, I really like it here.",I,ENG
+"Ye place bohot peaceful hai, I really like it here.",really,ENG
+"Ye place bohot peaceful hai, I really like it here.",like,ENG
+"Ye place bohot peaceful hai, I really like it here.",it,ENG
+"Ye place bohot peaceful hai, I really like it here.",here,ENG
+"Bhai mujhe password yaad nahi, can you help me?",Bhai,URD
+"Bhai mujhe password yaad nahi, can you help me?",mujhe,URD
+"Bhai mujhe password yaad nahi, can you help me?",password,ENG
+"Bhai mujhe password yaad nahi, can you help me?",yaad,ENG
+"Bhai mujhe password yaad nahi, can you help me?",nahi,URD
+"Bhai mujhe password yaad nahi, can you help me?",can,ENG
+"Bhai mujhe password yaad nahi, can you help me?",you,ENG
+"Bhai mujhe password yaad nahi, can you help me?",help,ENG
+"Bhai mujhe password yaad nahi, can you help me?",me,ENG
+Aaj dinner mein kya banana hai? I am already hungry.,Aaj,URD
+Aaj dinner mein kya banana hai? I am already hungry.,dinner,ENG
+Aaj dinner mein kya banana hai? I am already hungry.,mein,URD
+Aaj dinner mein kya banana hai? I am already hungry.,kya,URD
+Aaj dinner mein kya banana hai? I am already hungry.,banana,ENG
+Aaj dinner mein kya banana hai? I am already hungry.,hai,URD
+Aaj dinner mein kya banana hai? I am already hungry.,I,ENG
+Aaj dinner mein kya banana hai? I am already hungry.,am,ENG
+Aaj dinner mein kya banana hai? I am already hungry.,already,ENG
+Aaj dinner mein kya banana hai? I am already hungry.,hungry,ENG
+"Yaar this picture looks so good, send it to me.",Yaar,URD
+"Yaar this picture looks so good, send it to me.",this,ENG
+"Yaar this picture looks so good, send it to me.",picture,ENG
+"Yaar this picture looks so good, send it to me.",looks,ENG
+"Yaar this picture looks so good, send it to me.",so,ENG
+"Yaar this picture looks so good, send it to me.",good,ENG
+"Yaar this picture looks so good, send it to me.",send,ENG
+"Yaar this picture looks so good, send it to me.",it,ENG
+"Yaar this picture looks so good, send it to me.",to,ENG
+"Yaar this picture looks so good, send it to me.",me,ENG
+"Main kal university nahi ja sakti, I have some work at home.",Main,URD
+"Main kal university nahi ja sakti, I have some work at home.",kal,URD
+"Main kal university nahi ja sakti, I have some work at home.",university,ENG
+"Main kal university nahi ja sakti, I have some work at home.",nahi,URD
+"Main kal university nahi ja sakti, I have some work at home.",ja,URD
+"Main kal university nahi ja sakti, I have some work at home.",sakti,ENG
+"Main kal university nahi ja sakti, I have some work at home.",I,ENG
+"Main kal university nahi ja sakti, I have some work at home.",have,ENG
+"Main kal university nahi ja sakti, I have some work at home.",some,ENG
+"Main kal university nahi ja sakti, I have some work at home.",work,ENG
+"Main kal university nahi ja sakti, I have some work at home.",at,ENG
+"Main kal university nahi ja sakti, I have some work at home.",home,ENG
+"Mujhe ye topic samajh aa gaya, but the next part is confusing.",Mujhe,URD
+"Mujhe ye topic samajh aa gaya, but the next part is confusing.",ye,URD
+"Mujhe ye topic samajh aa gaya, but the next part is confusing.",topic,ENG
+"Mujhe ye topic samajh aa gaya, but the next part is confusing.",samajh,URD
+"Mujhe ye topic samajh aa gaya, but the next part is confusing.",aa,ENG
+"Mujhe ye topic samajh aa gaya, but the next part is confusing.",gaya,URD
+"Mujhe ye topic samajh aa gaya, but the next part is confusing.",but,ENG
+"Mujhe ye topic samajh aa gaya, but the next part is confusing.",the,ENG
+"Mujhe ye topic samajh aa gaya, but the next part is confusing.",next,ENG
+"Mujhe ye topic samajh aa gaya, but the next part is confusing.",part,ENG
+"Mujhe ye topic samajh aa gaya, but the next part is confusing.",is,URD
+"Mujhe ye topic samajh aa gaya, but the next part is confusing.",confusing,ENG
+Please mujhe call karna when you are free.,Please,ENG
+Please mujhe call karna when you are free.,mujhe,URD
+Please mujhe call karna when you are free.,call,ENG
+Please mujhe call karna when you are free.,karna,URD
+Please mujhe call karna when you are free.,when,ENG
+Please mujhe call karna when you are free.,you,ENG
+Please mujhe call karna when you are free.,are,ENG
+Please mujhe call karna when you are free.,free,ENG
+"Aaj ka lecture interesting tha, sir explained everything clearly.",Aaj,URD
+"Aaj ka lecture interesting tha, sir explained everything clearly.",ka,URD
+"Aaj ka lecture interesting tha, sir explained everything clearly.",lecture,ENG
+"Aaj ka lecture interesting tha, sir explained everything clearly.",interesting,ENG
+"Aaj ka lecture interesting tha, sir explained everything clearly.",tha,URD
+"Aaj ka lecture interesting tha, sir explained everything clearly.",sir,ENG
+"Aaj ka lecture interesting tha, sir explained everything clearly.",explained,ENG
+"Aaj ka lecture interesting tha, sir explained everything clearly.",everything,ENG
+"Aaj ka lecture interesting tha, sir explained everything clearly.",clearly,ENG
+Bhai tumhara result kaisa aya? I hope everything is good.,Bhai,URD
+Bhai tumhara result kaisa aya? I hope everything is good.,tumhara,URD
+Bhai tumhara result kaisa aya? I hope everything is good.,result,ENG
+Bhai tumhara result kaisa aya? I hope everything is good.,kaisa,ENG
+Bhai tumhara result kaisa aya? I hope everything is good.,aya,URD
+Bhai tumhara result kaisa aya? I hope everything is good.,I,ENG
+Bhai tumhara result kaisa aya? I hope everything is good.,hope,ENG
+Bhai tumhara result kaisa aya? I hope everything is good.,everything,ENG
+Bhai tumhara result kaisa aya? I hope everything is good.,is,URD
+Bhai tumhara result kaisa aya? I hope everything is good.,good,ENG
+"Main ne shopping kar li hai, now I am going home.",Main,URD
+"Main ne shopping kar li hai, now I am going home.",ne,URD
+"Main ne shopping kar li hai, now I am going home.",shopping,ENG
+"Main ne shopping kar li hai, now I am going home.",kar,URD
+"Main ne shopping kar li hai, now I am going home.",li,URD
+"Main ne shopping kar li hai, now I am going home.",hai,URD
+"Main ne shopping kar li hai, now I am going home.",now,ENG
+"Main ne shopping kar li hai, now I am going home.",I,ENG
+"Main ne shopping kar li hai, now I am going home.",am,ENG
+"Main ne shopping kar li hai, now I am going home.",going,ENG
+"Main ne shopping kar li hai, now I am going home.",home,ENG
+Yaar mujhe believe nahi ho raha that we actually won.,Yaar,URD
+Yaar mujhe believe nahi ho raha that we actually won.,mujhe,URD
+Yaar mujhe believe nahi ho raha that we actually won.,believe,ENG
+Yaar mujhe believe nahi ho raha that we actually won.,nahi,URD
+Yaar mujhe believe nahi ho raha that we actually won.,ho,URD
+Yaar mujhe believe nahi ho raha that we actually won.,raha,URD
+Yaar mujhe believe nahi ho raha that we actually won.,that,ENG
+Yaar mujhe believe nahi ho raha that we actually won.,we,ENG
+Yaar mujhe believe nahi ho raha that we actually won.,actually,ENG
+Yaar mujhe believe nahi ho raha that we actually won.,won,ENG
+"Ye coffee bohot achi hai, I should try it again.",Ye,URD
+"Ye coffee bohot achi hai, I should try it again.",coffee,ENG
+"Ye coffee bohot achi hai, I should try it again.",bohot,URD
+"Ye coffee bohot achi hai, I should try it again.",achi,URD
+"Ye coffee bohot achi hai, I should try it again.",hai,URD
+"Ye coffee bohot achi hai, I should try it again.",I,ENG
+"Ye coffee bohot achi hai, I should try it again.",should,ENG
+"Ye coffee bohot achi hai, I should try it again.",try,ENG
+"Ye coffee bohot achi hai, I should try it again.",it,ENG
+"Ye coffee bohot achi hai, I should try it again.",again,ENG
+"Kal weather kharab tha, so we stayed at home.",Kal,URD
+"Kal weather kharab tha, so we stayed at home.",weather,ENG
+"Kal weather kharab tha, so we stayed at home.",kharab,ENG
+"Kal weather kharab tha, so we stayed at home.",tha,URD
+"Kal weather kharab tha, so we stayed at home.",so,ENG
+"Kal weather kharab tha, so we stayed at home.",we,ENG
+"Kal weather kharab tha, so we stayed at home.",stayed,ENG
+"Kal weather kharab tha, so we stayed at home.",at,ENG
+"Kal weather kharab tha, so we stayed at home.",home,ENG
+Mujhe apna project complete karna hai before Friday.,Mujhe,URD
+Mujhe apna project complete karna hai before Friday.,apna,URD
+Mujhe apna project complete karna hai before Friday.,project,ENG
+Mujhe apna project complete karna hai before Friday.,complete,ENG
+Mujhe apna project complete karna hai before Friday.,karna,URD
+Mujhe apna project complete karna hai before Friday.,hai,URD
+Mujhe apna project complete karna hai before Friday.,before,ENG
+Mujhe apna project complete karna hai before Friday.,Friday,ENG
+"Bhai don't worry, sab theek ho jayega.",Bhai,URD
+"Bhai don't worry, sab theek ho jayega.",don't,ENG
+"Bhai don't worry, sab theek ho jayega.",worry,ENG
+"Bhai don't worry, sab theek ho jayega.",sab,ENG
+"Bhai don't worry, sab theek ho jayega.",theek,ENG
+"Bhai don't worry, sab theek ho jayega.",ho,URD
+"Bhai don't worry, sab theek ho jayega.",jayega,ENG
+"Main tumhein location send kar deti hoon, just follow the map.",Main,URD
+"Main tumhein location send kar deti hoon, just follow the map.",tumhein,URD
+"Main tumhein location send kar deti hoon, just follow the map.",location,ENG
+"Main tumhein location send kar deti hoon, just follow the map.",send,ENG
+"Main tumhein location send kar deti hoon, just follow the map.",kar,URD
+"Main tumhein location send kar deti hoon, just follow the map.",deti,ENG
+"Main tumhein location send kar deti hoon, just follow the map.",hoon,URD
+"Main tumhein location send kar deti hoon, just follow the map.",just,ENG
+"Main tumhein location send kar deti hoon, just follow the map.",follow,ENG
+"Main tumhein location send kar deti hoon, just follow the map.",the,ENG
+"Main tumhein location send kar deti hoon, just follow the map.",map,ENG
+Yaar ye news sun kar I was completely shocked.,Yaar,URD
+Yaar ye news sun kar I was completely shocked.,ye,URD
+Yaar ye news sun kar I was completely shocked.,news,ENG
+Yaar ye news sun kar I was completely shocked.,sun,ENG
+Yaar ye news sun kar I was completely shocked.,kar,URD
+Yaar ye news sun kar I was completely shocked.,I,ENG
+Yaar ye news sun kar I was completely shocked.,was,ENG
+Yaar ye news sun kar I was completely shocked.,completely,ENG
+Yaar ye news sun kar I was completely shocked.,shocked,ENG
+"Aaj office ka kaam bohot zyada tha, I barely got a break.",Aaj,URD
+"Aaj office ka kaam bohot zyada tha, I barely got a break.",office,ENG
+"Aaj office ka kaam bohot zyada tha, I barely got a break.",ka,URD
+"Aaj office ka kaam bohot zyada tha, I barely got a break.",kaam,ENG
+"Aaj office ka kaam bohot zyada tha, I barely got a break.",bohot,URD
+"Aaj office ka kaam bohot zyada tha, I barely got a break.",zyada,URD
+"Aaj office ka kaam bohot zyada tha, I barely got a break.",tha,URD
+"Aaj office ka kaam bohot zyada tha, I barely got a break.",I,ENG
+"Aaj office ka kaam bohot zyada tha, I barely got a break.",barely,ENG
+"Aaj office ka kaam bohot zyada tha, I barely got a break.",got,ENG
+"Aaj office ka kaam bohot zyada tha, I barely got a break.",a,ENG
+"Aaj office ka kaam bohot zyada tha, I barely got a break.",break,ENG
+Mujhe lagta hai tumhein thora rest karna chahiye.,Mujhe,URD
+Mujhe lagta hai tumhein thora rest karna chahiye.,lagta,URD
+Mujhe lagta hai tumhein thora rest karna chahiye.,hai,URD
+Mujhe lagta hai tumhein thora rest karna chahiye.,tumhein,URD
+Mujhe lagta hai tumhein thora rest karna chahiye.,thora,URD
+Mujhe lagta hai tumhein thora rest karna chahiye.,rest,URD
+Mujhe lagta hai tumhein thora rest karna chahiye.,karna,URD
+Mujhe lagta hai tumhein thora rest karna chahiye.,chahiye,URD
+Please ye message forward kar dena to the group.,Please,ENG
+Please ye message forward kar dena to the group.,ye,URD
+Please ye message forward kar dena to the group.,message,ENG
+Please ye message forward kar dena to the group.,forward,ENG
+Please ye message forward kar dena to the group.,kar,URD
+Please ye message forward kar dena to the group.,dena,URD
+Please ye message forward kar dena to the group.,to,ENG
+Please ye message forward kar dena to the group.,the,ENG
+Please ye message forward kar dena to the group.,group,ENG
+Kal ka plan kya hai? Are we meeting in the morning?,Kal,URD
+Kal ka plan kya hai? Are we meeting in the morning?,ka,URD
+Kal ka plan kya hai? Are we meeting in the morning?,plan,ENG
+Kal ka plan kya hai? Are we meeting in the morning?,kya,URD
+Kal ka plan kya hai? Are we meeting in the morning?,hai,URD
+Kal ka plan kya hai? Are we meeting in the morning?,Are,ENG
+Kal ka plan kya hai? Are we meeting in the morning?,we,ENG
+Kal ka plan kya hai? Are we meeting in the morning?,meeting,ENG
+Kal ka plan kya hai? Are we meeting in the morning?,in,ENG
+Kal ka plan kya hai? Are we meeting in the morning?,the,ENG
+Kal ka plan kya hai? Are we meeting in the morning?,morning,ENG
+"Main ne new phone liya hai, camera quality bohot achi hai.",Main,URD
+"Main ne new phone liya hai, camera quality bohot achi hai.",ne,URD
+"Main ne new phone liya hai, camera quality bohot achi hai.",new,ENG
+"Main ne new phone liya hai, camera quality bohot achi hai.",phone,ENG
+"Main ne new phone liya hai, camera quality bohot achi hai.",liya,URD
+"Main ne new phone liya hai, camera quality bohot achi hai.",hai,URD
+"Main ne new phone liya hai, camera quality bohot achi hai.",camera,ENG
+"Main ne new phone liya hai, camera quality bohot achi hai.",quality,ENG
+"Main ne new phone liya hai, camera quality bohot achi hai.",bohot,URD
+"Main ne new phone liya hai, camera quality bohot achi hai.",achi,URD
+"Main ne new phone liya hai, camera quality bohot achi hai.",hai,URD
+Yaar honestly I was not expecting this at all.,Yaar,URD
+Yaar honestly I was not expecting this at all.,honestly,ENG
+Yaar honestly I was not expecting this at all.,I,ENG
+Yaar honestly I was not expecting this at all.,was,ENG
+Yaar honestly I was not expecting this at all.,not,ENG
+Yaar honestly I was not expecting this at all.,expecting,ENG
+Yaar honestly I was not expecting this at all.,this,ENG
+Yaar honestly I was not expecting this at all.,at,ENG
+Yaar honestly I was not expecting this at all.,all,ENG
+"Ye chapter difficult lag raha hai, but we can study together.",Ye,URD
+"Ye chapter difficult lag raha hai, but we can study together.",chapter,ENG
+"Ye chapter difficult lag raha hai, but we can study together.",difficult,ENG
+"Ye chapter difficult lag raha hai, but we can study together.",lag,ENG
+"Ye chapter difficult lag raha hai, but we can study together.",raha,URD
+"Ye chapter difficult lag raha hai, but we can study together.",hai,URD
+"Ye chapter difficult lag raha hai, but we can study together.",but,ENG
+"Ye chapter difficult lag raha hai, but we can study together.",we,ENG
+"Ye chapter difficult lag raha hai, but we can study together.",can,ENG
+"Ye chapter difficult lag raha hai, but we can study together.",study,ENG
+"Ye chapter difficult lag raha hai, but we can study together.",together,ENG
+Bhai mujhe thori help chahiye with this assignment.,Bhai,URD
+Bhai mujhe thori help chahiye with this assignment.,mujhe,URD
+Bhai mujhe thori help chahiye with this assignment.,thori,URD
+Bhai mujhe thori help chahiye with this assignment.,help,ENG
+Bhai mujhe thori help chahiye with this assignment.,chahiye,URD
+Bhai mujhe thori help chahiye with this assignment.,with,ENG
+Bhai mujhe thori help chahiye with this assignment.,this,ENG
+Bhai mujhe thori help chahiye with this assignment.,assignment,URD
+"Aaj ghar mein guests aye hain, so I will be busy.",Aaj,URD
+"Aaj ghar mein guests aye hain, so I will be busy.",ghar,URD
+"Aaj ghar mein guests aye hain, so I will be busy.",mein,URD
+"Aaj ghar mein guests aye hain, so I will be busy.",guests,ENG
+"Aaj ghar mein guests aye hain, so I will be busy.",aye,ENG
+"Aaj ghar mein guests aye hain, so I will be busy.",hain,URD
+"Aaj ghar mein guests aye hain, so I will be busy.",so,ENG
+"Aaj ghar mein guests aye hain, so I will be busy.",I,ENG
+"Aaj ghar mein guests aye hain, so I will be busy.",will,ENG
+"Aaj ghar mein guests aye hain, so I will be busy.",be,ENG
+"Aaj ghar mein guests aye hain, so I will be busy.",busy,ENG
+"Main abhi dinner kar rahi hoon, I'll call you afterwards.",Main,URD
+"Main abhi dinner kar rahi hoon, I'll call you afterwards.",abhi,URD
+"Main abhi dinner kar rahi hoon, I'll call you afterwards.",dinner,ENG
+"Main abhi dinner kar rahi hoon, I'll call you afterwards.",kar,URD
+"Main abhi dinner kar rahi hoon, I'll call you afterwards.",rahi,URD
+"Main abhi dinner kar rahi hoon, I'll call you afterwards.",hoon,URD
+"Main abhi dinner kar rahi hoon, I'll call you afterwards.",I'll,ENG
+"Main abhi dinner kar rahi hoon, I'll call you afterwards.",call,ENG
+"Main abhi dinner kar rahi hoon, I'll call you afterwards.",you,ENG
+"Main abhi dinner kar rahi hoon, I'll call you afterwards.",afterwards,ENG
+"Ye color tum par bohot acha lagta hai, it suits you.",Ye,URD
+"Ye color tum par bohot acha lagta hai, it suits you.",color,ENG
+"Ye color tum par bohot acha lagta hai, it suits you.",tum,URD
+"Ye color tum par bohot acha lagta hai, it suits you.",par,URD
+"Ye color tum par bohot acha lagta hai, it suits you.",bohot,URD
+"Ye color tum par bohot acha lagta hai, it suits you.",acha,URD
+"Ye color tum par bohot acha lagta hai, it suits you.",lagta,URD
+"Ye color tum par bohot acha lagta hai, it suits you.",hai,URD
+"Ye color tum par bohot acha lagta hai, it suits you.",it,ENG
+"Ye color tum par bohot acha lagta hai, it suits you.",suits,ENG
+"Ye color tum par bohot acha lagta hai, it suits you.",you,ENG
+"Mujhe ye app use karna nahi aata, can you show me?",Mujhe,URD
+"Mujhe ye app use karna nahi aata, can you show me?",ye,URD
+"Mujhe ye app use karna nahi aata, can you show me?",app,ENG
+"Mujhe ye app use karna nahi aata, can you show me?",use,ENG
+"Mujhe ye app use karna nahi aata, can you show me?",karna,URD
+"Mujhe ye app use karna nahi aata, can you show me?",nahi,URD
+"Mujhe ye app use karna nahi aata, can you show me?",aata,ENG
+"Mujhe ye app use karna nahi aata, can you show me?",can,ENG
+"Mujhe ye app use karna nahi aata, can you show me?",you,ENG
+"Mujhe ye app use karna nahi aata, can you show me?",show,ENG
+"Mujhe ye app use karna nahi aata, can you show me?",me,ENG
+"Kal meri class early hai, I need to sleep soon.",Kal,URD
+"Kal meri class early hai, I need to sleep soon.",meri,URD
+"Kal meri class early hai, I need to sleep soon.",class,ENG
+"Kal meri class early hai, I need to sleep soon.",early,ENG
+"Kal meri class early hai, I need to sleep soon.",hai,URD
+"Kal meri class early hai, I need to sleep soon.",I,ENG
+"Kal meri class early hai, I need to sleep soon.",need,ENG
+"Kal meri class early hai, I need to sleep soon.",to,ENG
+"Kal meri class early hai, I need to sleep soon.",sleep,ENG
+"Kal meri class early hai, I need to sleep soon.",soon,ENG
+"Yaar your vlog was really entertaining, keep shining.",Yaar,URD
+"Yaar your vlog was really entertaining, keep shining.",your,ENG
+"Yaar your vlog was really entertaining, keep shining.",vlog,ENG
+"Yaar your vlog was really entertaining, keep shining.",was,ENG
+"Yaar your vlog was really entertaining, keep shining.",really,ENG
+"Yaar your vlog was really entertaining, keep shining.",entertaining,ENG
+"Yaar your vlog was really entertaining, keep shining.",keep,ENG
+"Yaar your vlog was really entertaining, keep shining.",shining,ENG
+"Main ne tickets book kar li hain, everything is confirmed.",Main,URD
+"Main ne tickets book kar li hain, everything is confirmed.",ne,URD
+"Main ne tickets book kar li hain, everything is confirmed.",tickets,ENG
+"Main ne tickets book kar li hain, everything is confirmed.",book,ENG
+"Main ne tickets book kar li hain, everything is confirmed.",kar,URD
+"Main ne tickets book kar li hain, everything is confirmed.",li,URD
+"Main ne tickets book kar li hain, everything is confirmed.",hain,URD
+"Main ne tickets book kar li hain, everything is confirmed.",everything,ENG
+"Main ne tickets book kar li hain, everything is confirmed.",is,URD
+"Main ne tickets book kar li hain, everything is confirmed.",confirmed,ENG
+"Is problem ka solution simple hai, just follow these steps.",Is,URD
+"Is problem ka solution simple hai, just follow these steps.",problem,ENG
+"Is problem ka solution simple hai, just follow these steps.",ka,URD
+"Is problem ka solution simple hai, just follow these steps.",solution,ENG
+"Is problem ka solution simple hai, just follow these steps.",simple,ENG
+"Is problem ka solution simple hai, just follow these steps.",hai,URD
+"Is problem ka solution simple hai, just follow these steps.",just,ENG
+"Is problem ka solution simple hai, just follow these steps.",follow,ENG
+"Is problem ka solution simple hai, just follow these steps.",these,ENG
+"Is problem ka solution simple hai, just follow these steps.",steps,ENG
+"Bhai meri file open nahi ho rahi, maybe it's corrupted.",Bhai,URD
+"Bhai meri file open nahi ho rahi, maybe it's corrupted.",meri,URD
+"Bhai meri file open nahi ho rahi, maybe it's corrupted.",file,ENG
+"Bhai meri file open nahi ho rahi, maybe it's corrupted.",open,ENG
+"Bhai meri file open nahi ho rahi, maybe it's corrupted.",nahi,URD
+"Bhai meri file open nahi ho rahi, maybe it's corrupted.",ho,URD
+"Bhai meri file open nahi ho rahi, maybe it's corrupted.",rahi,URD
+"Bhai meri file open nahi ho rahi, maybe it's corrupted.",maybe,ENG
+"Bhai meri file open nahi ho rahi, maybe it's corrupted.",it's,ENG
+"Bhai meri file open nahi ho rahi, maybe it's corrupted.",corrupted,ENG
+"Aaj bohot thand hai, I don't want to go outside.",Aaj,URD
+"Aaj bohot thand hai, I don't want to go outside.",bohot,URD
+"Aaj bohot thand hai, I don't want to go outside.",thand,ENG
+"Aaj bohot thand hai, I don't want to go outside.",hai,URD
+"Aaj bohot thand hai, I don't want to go outside.",I,ENG
+"Aaj bohot thand hai, I don't want to go outside.",don't,ENG
+"Aaj bohot thand hai, I don't want to go outside.",want,ENG
+"Aaj bohot thand hai, I don't want to go outside.",to,ENG
+"Aaj bohot thand hai, I don't want to go outside.",go,ENG
+"Aaj bohot thand hai, I don't want to go outside.",outside,ENG
+Mujhe lagta hai hum weekend par trip plan kar sakte hain.,Mujhe,URD
+Mujhe lagta hai hum weekend par trip plan kar sakte hain.,lagta,URD
+Mujhe lagta hai hum weekend par trip plan kar sakte hain.,hai,URD
+Mujhe lagta hai hum weekend par trip plan kar sakte hain.,hum,ENG
+Mujhe lagta hai hum weekend par trip plan kar sakte hain.,weekend,ENG
+Mujhe lagta hai hum weekend par trip plan kar sakte hain.,par,URD
+Mujhe lagta hai hum weekend par trip plan kar sakte hain.,trip,ENG
+Mujhe lagta hai hum weekend par trip plan kar sakte hain.,plan,ENG
+Mujhe lagta hai hum weekend par trip plan kar sakte hain.,kar,URD
+Mujhe lagta hai hum weekend par trip plan kar sakte hain.,sakte,ENG
+Mujhe lagta hai hum weekend par trip plan kar sakte hain.,hain,URD
+Please mujhe update kar dena when the work is done.,Please,ENG
+Please mujhe update kar dena when the work is done.,mujhe,URD
+Please mujhe update kar dena when the work is done.,update,ENG
+Please mujhe update kar dena when the work is done.,kar,URD
+Please mujhe update kar dena when the work is done.,dena,URD
+Please mujhe update kar dena when the work is done.,when,ENG
+Please mujhe update kar dena when the work is done.,the,ENG
+Please mujhe update kar dena when the work is done.,work,ENG
+Please mujhe update kar dena when the work is done.,is,URD
+Please mujhe update kar dena when the work is done.,done,ENG
+"Yaar ye drama actually bohot addictive hai, I watched three episodes.",Yaar,URD
+"Yaar ye drama actually bohot addictive hai, I watched three episodes.",ye,URD
+"Yaar ye drama actually bohot addictive hai, I watched three episodes.",drama,ENG
+"Yaar ye drama actually bohot addictive hai, I watched three episodes.",actually,ENG
+"Yaar ye drama actually bohot addictive hai, I watched three episodes.",bohot,URD
+"Yaar ye drama actually bohot addictive hai, I watched three episodes.",addictive,ENG
+"Yaar ye drama actually bohot addictive hai, I watched three episodes.",hai,URD
+"Yaar ye drama actually bohot addictive hai, I watched three episodes.",I,ENG
+"Yaar ye drama actually bohot addictive hai, I watched three episodes.",watched,ENG
+"Yaar ye drama actually bohot addictive hai, I watched three episodes.",three,ENG
+"Yaar ye drama actually bohot addictive hai, I watched three episodes.",episodes,ENG
+"Main ne breakfast nahi kiya, so I am really hungry.",Main,URD
+"Main ne breakfast nahi kiya, so I am really hungry.",ne,URD
+"Main ne breakfast nahi kiya, so I am really hungry.",breakfast,ENG
+"Main ne breakfast nahi kiya, so I am really hungry.",nahi,URD
+"Main ne breakfast nahi kiya, so I am really hungry.",kiya,ENG
+"Main ne breakfast nahi kiya, so I am really hungry.",so,ENG
+"Main ne breakfast nahi kiya, so I am really hungry.",I,ENG
+"Main ne breakfast nahi kiya, so I am really hungry.",am,ENG
+"Main ne breakfast nahi kiya, so I am really hungry.",really,ENG
+"Main ne breakfast nahi kiya, so I am really hungry.",hungry,ENG
+"Bhai tumhara idea interesting hai, let's discuss it later.",Bhai,URD
+"Bhai tumhara idea interesting hai, let's discuss it later.",tumhara,URD
+"Bhai tumhara idea interesting hai, let's discuss it later.",idea,ENG
+"Bhai tumhara idea interesting hai, let's discuss it later.",interesting,ENG
+"Bhai tumhara idea interesting hai, let's discuss it later.",hai,URD
+"Bhai tumhara idea interesting hai, let's discuss it later.",let's,ENG
+"Bhai tumhara idea interesting hai, let's discuss it later.",discuss,ENG
+"Bhai tumhara idea interesting hai, let's discuss it later.",it,ENG
+"Bhai tumhara idea interesting hai, let's discuss it later.",later,ENG
+"Aaj meri tabiyat theek nahi, I will stay home.",Aaj,URD
+"Aaj meri tabiyat theek nahi, I will stay home.",meri,URD
+"Aaj meri tabiyat theek nahi, I will stay home.",tabiyat,ENG
+"Aaj meri tabiyat theek nahi, I will stay home.",theek,ENG
+"Aaj meri tabiyat theek nahi, I will stay home.",nahi,URD
+"Aaj meri tabiyat theek nahi, I will stay home.",I,ENG
+"Aaj meri tabiyat theek nahi, I will stay home.",will,ENG
+"Aaj meri tabiyat theek nahi, I will stay home.",stay,ENG
+"Aaj meri tabiyat theek nahi, I will stay home.",home,ENG
+"Mujhe ye shoes pasand hain, but they are too expensive.",Mujhe,URD
+"Mujhe ye shoes pasand hain, but they are too expensive.",ye,URD
+"Mujhe ye shoes pasand hain, but they are too expensive.",shoes,ENG
+"Mujhe ye shoes pasand hain, but they are too expensive.",pasand,URD
+"Mujhe ye shoes pasand hain, but they are too expensive.",hain,URD
+"Mujhe ye shoes pasand hain, but they are too expensive.",but,ENG
+"Mujhe ye shoes pasand hain, but they are too expensive.",they,ENG
+"Mujhe ye shoes pasand hain, but they are too expensive.",are,ENG
+"Mujhe ye shoes pasand hain, but they are too expensive.",too,ENG
+"Mujhe ye shoes pasand hain, but they are too expensive.",expensive,ENG
+Kal exam hai aur I haven't revised anything yet.,Kal,URD
+Kal exam hai aur I haven't revised anything yet.,exam,ENG
+Kal exam hai aur I haven't revised anything yet.,hai,URD
+Kal exam hai aur I haven't revised anything yet.,aur,URD
+Kal exam hai aur I haven't revised anything yet.,I,ENG
+Kal exam hai aur I haven't revised anything yet.,haven't,ENG
+Kal exam hai aur I haven't revised anything yet.,revised,ENG
+Kal exam hai aur I haven't revised anything yet.,anything,ENG
+Kal exam hai aur I haven't revised anything yet.,yet,ENG
+Yaar mujhe samajh nahi aa raha why he is upset.,Yaar,URD
+Yaar mujhe samajh nahi aa raha why he is upset.,mujhe,URD
+Yaar mujhe samajh nahi aa raha why he is upset.,samajh,URD
+Yaar mujhe samajh nahi aa raha why he is upset.,nahi,URD
+Yaar mujhe samajh nahi aa raha why he is upset.,aa,ENG
+Yaar mujhe samajh nahi aa raha why he is upset.,raha,URD
+Yaar mujhe samajh nahi aa raha why he is upset.,why,ENG
+Yaar mujhe samajh nahi aa raha why he is upset.,he,ENG
+Yaar mujhe samajh nahi aa raha why he is upset.,is,URD
+Yaar mujhe samajh nahi aa raha why he is upset.,upset,ENG
+"Main abhi bus mein hoon, will reach in twenty minutes.",Main,URD
+"Main abhi bus mein hoon, will reach in twenty minutes.",abhi,URD
+"Main abhi bus mein hoon, will reach in twenty minutes.",bus,ENG
+"Main abhi bus mein hoon, will reach in twenty minutes.",mein,URD
+"Main abhi bus mein hoon, will reach in twenty minutes.",hoon,URD
+"Main abhi bus mein hoon, will reach in twenty minutes.",will,ENG
+"Main abhi bus mein hoon, will reach in twenty minutes.",reach,ENG
+"Main abhi bus mein hoon, will reach in twenty minutes.",in,ENG
+"Main abhi bus mein hoon, will reach in twenty minutes.",twenty,ENG
+"Main abhi bus mein hoon, will reach in twenty minutes.",minutes,ENG
+"Ye place Instagram ke liye perfect hai, pictures bohot achi ayengi.",Ye,URD
+"Ye place Instagram ke liye perfect hai, pictures bohot achi ayengi.",place,ENG
+"Ye place Instagram ke liye perfect hai, pictures bohot achi ayengi.",Instagram,ENG
+"Ye place Instagram ke liye perfect hai, pictures bohot achi ayengi.",ke,URD
+"Ye place Instagram ke liye perfect hai, pictures bohot achi ayengi.",liye,URD
+"Ye place Instagram ke liye perfect hai, pictures bohot achi ayengi.",perfect,ENG
+"Ye place Instagram ke liye perfect hai, pictures bohot achi ayengi.",hai,URD
+"Ye place Instagram ke liye perfect hai, pictures bohot achi ayengi.",pictures,ENG
+"Ye place Instagram ke liye perfect hai, pictures bohot achi ayengi.",bohot,URD
+"Ye place Instagram ke liye perfect hai, pictures bohot achi ayengi.",achi,URD
+"Ye place Instagram ke liye perfect hai, pictures bohot achi ayengi.",ayengi,ENG
+"Bhai please mujhe notes send kar do, I missed the lecture.",Bhai,URD
+"Bhai please mujhe notes send kar do, I missed the lecture.",please,ENG
+"Bhai please mujhe notes send kar do, I missed the lecture.",mujhe,URD
+"Bhai please mujhe notes send kar do, I missed the lecture.",notes,ENG
+"Bhai please mujhe notes send kar do, I missed the lecture.",send,ENG
+"Bhai please mujhe notes send kar do, I missed the lecture.",kar,URD
+"Bhai please mujhe notes send kar do, I missed the lecture.",do,URD
+"Bhai please mujhe notes send kar do, I missed the lecture.",I,ENG
+"Bhai please mujhe notes send kar do, I missed the lecture.",missed,ENG
+"Bhai please mujhe notes send kar do, I missed the lecture.",the,ENG
+"Bhai please mujhe notes send kar do, I missed the lecture.",lecture,ENG
+"Aaj ka event bohot successful tha, everyone enjoyed it.",Aaj,URD
+"Aaj ka event bohot successful tha, everyone enjoyed it.",ka,URD
+"Aaj ka event bohot successful tha, everyone enjoyed it.",event,ENG
+"Aaj ka event bohot successful tha, everyone enjoyed it.",bohot,URD
+"Aaj ka event bohot successful tha, everyone enjoyed it.",successful,ENG
+"Aaj ka event bohot successful tha, everyone enjoyed it.",tha,URD
+"Aaj ka event bohot successful tha, everyone enjoyed it.",everyone,ENG
+"Aaj ka event bohot successful tha, everyone enjoyed it.",enjoyed,ENG
+"Aaj ka event bohot successful tha, everyone enjoyed it.",it,ENG
+"Mujhe thora break chahiye, then I will continue working.",Mujhe,URD
+"Mujhe thora break chahiye, then I will continue working.",thora,URD
+"Mujhe thora break chahiye, then I will continue working.",break,ENG
+"Mujhe thora break chahiye, then I will continue working.",chahiye,URD
+"Mujhe thora break chahiye, then I will continue working.",then,ENG
+"Mujhe thora break chahiye, then I will continue working.",I,ENG
+"Mujhe thora break chahiye, then I will continue working.",will,ENG
+"Mujhe thora break chahiye, then I will continue working.",continue,ENG
+"Mujhe thora break chahiye, then I will continue working.",working,ENG
+"Yaar this is exactly what I needed, thank you so much.",Yaar,URD
+"Yaar this is exactly what I needed, thank you so much.",this,ENG
+"Yaar this is exactly what I needed, thank you so much.",is,URD
+"Yaar this is exactly what I needed, thank you so much.",exactly,ENG
+"Yaar this is exactly what I needed, thank you so much.",what,ENG
+"Yaar this is exactly what I needed, thank you so much.",I,ENG
+"Yaar this is exactly what I needed, thank you so much.",needed,ENG
+"Yaar this is exactly what I needed, thank you so much.",thank,ENG
+"Yaar this is exactly what I needed, thank you so much.",you,ENG
+"Yaar this is exactly what I needed, thank you so much.",so,ENG
+"Yaar this is exactly what I needed, thank you so much.",much,ENG
+"Main kal tumhare ghar aaungi, if that's okay with you.",Main,URD
+"Main kal tumhare ghar aaungi, if that's okay with you.",kal,URD
+"Main kal tumhare ghar aaungi, if that's okay with you.",tumhare,ENG
+"Main kal tumhare ghar aaungi, if that's okay with you.",ghar,URD
+"Main kal tumhare ghar aaungi, if that's okay with you.",aaungi,ENG
+"Main kal tumhare ghar aaungi, if that's okay with you.",if,ENG
+"Main kal tumhare ghar aaungi, if that's okay with you.",that's,ENG
+"Main kal tumhare ghar aaungi, if that's okay with you.",okay,ENG
+"Main kal tumhare ghar aaungi, if that's okay with you.",with,ENG
+"Main kal tumhare ghar aaungi, if that's okay with you.",you,ENG
+"Ye website bohot easy hai, you can register in a few minutes.",Ye,URD
+"Ye website bohot easy hai, you can register in a few minutes.",website,ENG
+"Ye website bohot easy hai, you can register in a few minutes.",bohot,URD
+"Ye website bohot easy hai, you can register in a few minutes.",easy,ENG
+"Ye website bohot easy hai, you can register in a few minutes.",hai,URD
+"Ye website bohot easy hai, you can register in a few minutes.",you,ENG
+"Ye website bohot easy hai, you can register in a few minutes.",can,ENG
+"Ye website bohot easy hai, you can register in a few minutes.",register,ENG
+"Ye website bohot easy hai, you can register in a few minutes.",in,ENG
+"Ye website bohot easy hai, you can register in a few minutes.",a,ENG
+"Ye website bohot easy hai, you can register in a few minutes.",few,ENG
+"Ye website bohot easy hai, you can register in a few minutes.",minutes,ENG
+Bhai mujhe batao tumhara favorite part konsa tha?,Bhai,URD
+Bhai mujhe batao tumhara favorite part konsa tha?,mujhe,URD
+Bhai mujhe batao tumhara favorite part konsa tha?,batao,URD
+Bhai mujhe batao tumhara favorite part konsa tha?,tumhara,URD
+Bhai mujhe batao tumhara favorite part konsa tha?,favorite,ENG
+Bhai mujhe batao tumhara favorite part konsa tha?,part,ENG
+Bhai mujhe batao tumhara favorite part konsa tha?,konsa,URD
+Bhai mujhe batao tumhara favorite part konsa tha?,tha,URD
+"Aaj traffic bohot zyada hai, we should leave early.",Aaj,URD
+"Aaj traffic bohot zyada hai, we should leave early.",traffic,ENG
+"Aaj traffic bohot zyada hai, we should leave early.",bohot,URD
+"Aaj traffic bohot zyada hai, we should leave early.",zyada,URD
+"Aaj traffic bohot zyada hai, we should leave early.",hai,URD
+"Aaj traffic bohot zyada hai, we should leave early.",we,ENG
+"Aaj traffic bohot zyada hai, we should leave early.",should,ENG
+"Aaj traffic bohot zyada hai, we should leave early.",leave,ENG
+"Aaj traffic bohot zyada hai, we should leave early.",early,ENG
+Mujhe lagta hai ye decision sahi hai for everyone.,Mujhe,URD
+Mujhe lagta hai ye decision sahi hai for everyone.,lagta,URD
+Mujhe lagta hai ye decision sahi hai for everyone.,hai,URD
+Mujhe lagta hai ye decision sahi hai for everyone.,ye,URD
+Mujhe lagta hai ye decision sahi hai for everyone.,decision,ENG
+Mujhe lagta hai ye decision sahi hai for everyone.,sahi,ENG
+Mujhe lagta hai ye decision sahi hai for everyone.,hai,URD
+Mujhe lagta hai ye decision sahi hai for everyone.,for,ENG
+Mujhe lagta hai ye decision sahi hai for everyone.,everyone,ENG
+"Yaar I was so tired, phir bhi assignment complete kiya.",Yaar,URD
+"Yaar I was so tired, phir bhi assignment complete kiya.",I,ENG
+"Yaar I was so tired, phir bhi assignment complete kiya.",was,ENG
+"Yaar I was so tired, phir bhi assignment complete kiya.",so,ENG
+"Yaar I was so tired, phir bhi assignment complete kiya.",tired,ENG
+"Yaar I was so tired, phir bhi assignment complete kiya.",phir,URD
+"Yaar I was so tired, phir bhi assignment complete kiya.",bhi,URD
+"Yaar I was so tired, phir bhi assignment complete kiya.",assignment,URD
+"Yaar I was so tired, phir bhi assignment complete kiya.",complete,ENG
+"Yaar I was so tired, phir bhi assignment complete kiya.",kiya,ENG
+"Main ne room clean kar liya, now I can relax.",Main,URD
+"Main ne room clean kar liya, now I can relax.",ne,URD
+"Main ne room clean kar liya, now I can relax.",room,ENG
+"Main ne room clean kar liya, now I can relax.",clean,ENG
+"Main ne room clean kar liya, now I can relax.",kar,URD
+"Main ne room clean kar liya, now I can relax.",liya,URD
+"Main ne room clean kar liya, now I can relax.",now,ENG
+"Main ne room clean kar liya, now I can relax.",I,ENG
+"Main ne room clean kar liya, now I can relax.",can,ENG
+"Main ne room clean kar liya, now I can relax.",relax,ENG
+"Please mujhe screenshot bhej do, I need to check something.",Please,ENG
+"Please mujhe screenshot bhej do, I need to check something.",mujhe,URD
+"Please mujhe screenshot bhej do, I need to check something.",screenshot,ENG
+"Please mujhe screenshot bhej do, I need to check something.",bhej,ENG
+"Please mujhe screenshot bhej do, I need to check something.",do,URD
+"Please mujhe screenshot bhej do, I need to check something.",I,ENG
+"Please mujhe screenshot bhej do, I need to check something.",need,ENG
+"Please mujhe screenshot bhej do, I need to check something.",to,ENG
+"Please mujhe screenshot bhej do, I need to check something.",check,ENG
+"Please mujhe screenshot bhej do, I need to check something.",something,ENG
+"Kal ka weather perfect tha, we should go again.",Kal,URD
+"Kal ka weather perfect tha, we should go again.",ka,URD
+"Kal ka weather perfect tha, we should go again.",weather,ENG
+"Kal ka weather perfect tha, we should go again.",perfect,ENG
+"Kal ka weather perfect tha, we should go again.",tha,URD
+"Kal ka weather perfect tha, we should go again.",we,ENG
+"Kal ka weather perfect tha, we should go again.",should,ENG
+"Kal ka weather perfect tha, we should go again.",go,ENG
+"Kal ka weather perfect tha, we should go again.",again,ENG
+Bhai ye feature bohot useful hai for students.,Bhai,URD
+Bhai ye feature bohot useful hai for students.,ye,URD
+Bhai ye feature bohot useful hai for students.,feature,ENG
+Bhai ye feature bohot useful hai for students.,bohot,URD
+Bhai ye feature bohot useful hai for students.,useful,ENG
+Bhai ye feature bohot useful hai for students.,hai,URD
+Bhai ye feature bohot useful hai for students.,for,ENG
+Bhai ye feature bohot useful hai for students.,students,ENG
+"Mujhe English samajh aa jati hai, but speaking is difficult.",Mujhe,URD
+"Mujhe English samajh aa jati hai, but speaking is difficult.",English,ENG
+"Mujhe English samajh aa jati hai, but speaking is difficult.",samajh,URD
+"Mujhe English samajh aa jati hai, but speaking is difficult.",aa,ENG
+"Mujhe English samajh aa jati hai, but speaking is difficult.",jati,URD
+"Mujhe English samajh aa jati hai, but speaking is difficult.",hai,URD
+"Mujhe English samajh aa jati hai, but speaking is difficult.",but,ENG
+"Mujhe English samajh aa jati hai, but speaking is difficult.",speaking,ENG
+"Mujhe English samajh aa jati hai, but speaking is difficult.",is,URD
+"Mujhe English samajh aa jati hai, but speaking is difficult.",difficult,ENG
+Yaar tumhari new profile picture looks amazing.,Yaar,URD
+Yaar tumhari new profile picture looks amazing.,tumhari,URD
+Yaar tumhari new profile picture looks amazing.,new,ENG
+Yaar tumhari new profile picture looks amazing.,profile,ENG
+Yaar tumhari new profile picture looks amazing.,picture,ENG
+Yaar tumhari new profile picture looks amazing.,looks,ENG
+Yaar tumhari new profile picture looks amazing.,amazing,ENG
+"Main abhi library mein hoon, I will message you later.",Main,URD
+"Main abhi library mein hoon, I will message you later.",abhi,URD
+"Main abhi library mein hoon, I will message you later.",library,ENG
+"Main abhi library mein hoon, I will message you later.",mein,URD
+"Main abhi library mein hoon, I will message you later.",hoon,URD
+"Main abhi library mein hoon, I will message you later.",I,ENG
+"Main abhi library mein hoon, I will message you later.",will,ENG
+"Main abhi library mein hoon, I will message you later.",message,ENG
+"Main abhi library mein hoon, I will message you later.",you,ENG
+"Main abhi library mein hoon, I will message you later.",later,ENG
+"Ye book bohot interesting hai, I can't stop reading it.",Ye,URD
+"Ye book bohot interesting hai, I can't stop reading it.",book,ENG
+"Ye book bohot interesting hai, I can't stop reading it.",bohot,URD
+"Ye book bohot interesting hai, I can't stop reading it.",interesting,ENG
+"Ye book bohot interesting hai, I can't stop reading it.",hai,URD
+"Ye book bohot interesting hai, I can't stop reading it.",I,ENG
+"Ye book bohot interesting hai, I can't stop reading it.",can't,ENG
+"Ye book bohot interesting hai, I can't stop reading it.",stop,ENG
+"Ye book bohot interesting hai, I can't stop reading it.",reading,ENG
+"Ye book bohot interesting hai, I can't stop reading it.",it,ENG
+"Bhai mujhe jaldi jaana hai, I have another meeting.",Bhai,URD
+"Bhai mujhe jaldi jaana hai, I have another meeting.",mujhe,URD
+"Bhai mujhe jaldi jaana hai, I have another meeting.",jaldi,ENG
+"Bhai mujhe jaldi jaana hai, I have another meeting.",jaana,URD
+"Bhai mujhe jaldi jaana hai, I have another meeting.",hai,URD
+"Bhai mujhe jaldi jaana hai, I have another meeting.",I,ENG
+"Bhai mujhe jaldi jaana hai, I have another meeting.",have,ENG
+"Bhai mujhe jaldi jaana hai, I have another meeting.",another,ENG
+"Bhai mujhe jaldi jaana hai, I have another meeting.",meeting,ENG
+Aaj class mein teacher ne ek new topic explain kiya.,Aaj,URD
+Aaj class mein teacher ne ek new topic explain kiya.,class,ENG
+Aaj class mein teacher ne ek new topic explain kiya.,mein,URD
+Aaj class mein teacher ne ek new topic explain kiya.,teacher,ENG
+Aaj class mein teacher ne ek new topic explain kiya.,ne,URD
+Aaj class mein teacher ne ek new topic explain kiya.,ek,ENG
+Aaj class mein teacher ne ek new topic explain kiya.,new,ENG
+Aaj class mein teacher ne ek new topic explain kiya.,topic,ENG
+Aaj class mein teacher ne ek new topic explain kiya.,explain,ENG
+Aaj class mein teacher ne ek new topic explain kiya.,kiya,ENG
+Yaar seriously ye game bohot addictive hai.,Yaar,URD
+Yaar seriously ye game bohot addictive hai.,seriously,ENG
+Yaar seriously ye game bohot addictive hai.,ye,URD
+Yaar seriously ye game bohot addictive hai.,game,ENG
+Yaar seriously ye game bohot addictive hai.,bohot,URD
+Yaar seriously ye game bohot addictive hai.,addictive,ENG
+Yaar seriously ye game bohot addictive hai.,hai,URD
+"Main ne assignment upload kar diya, hopefully everything is fine.",Main,URD
+"Main ne assignment upload kar diya, hopefully everything is fine.",ne,URD
+"Main ne assignment upload kar diya, hopefully everything is fine.",assignment,URD
+"Main ne assignment upload kar diya, hopefully everything is fine.",upload,ENG
+"Main ne assignment upload kar diya, hopefully everything is fine.",kar,URD
+"Main ne assignment upload kar diya, hopefully everything is fine.",diya,ENG
+"Main ne assignment upload kar diya, hopefully everything is fine.",hopefully,ENG
+"Main ne assignment upload kar diya, hopefully everything is fine.",everything,ENG
+"Main ne assignment upload kar diya, hopefully everything is fine.",is,URD
+"Main ne assignment upload kar diya, hopefully everything is fine.",fine,ENG
+Mujhe lagta hai we need a better plan.,Mujhe,URD
+Mujhe lagta hai we need a better plan.,lagta,URD
+Mujhe lagta hai we need a better plan.,hai,URD
+Mujhe lagta hai we need a better plan.,we,ENG
+Mujhe lagta hai we need a better plan.,need,ENG
+Mujhe lagta hai we need a better plan.,a,ENG
+Mujhe lagta hai we need a better plan.,better,ENG
+Mujhe lagta hai we need a better plan.,plan,ENG
+Please mujhe bata dena agar koi problem ho.,Please,ENG
+Please mujhe bata dena agar koi problem ho.,mujhe,URD
+Please mujhe bata dena agar koi problem ho.,bata,URD
+Please mujhe bata dena agar koi problem ho.,dena,URD
+Please mujhe bata dena agar koi problem ho.,agar,URD
+Please mujhe bata dena agar koi problem ho.,koi,ENG
+Please mujhe bata dena agar koi problem ho.,problem,ENG
+Please mujhe bata dena agar koi problem ho.,ho,URD
+"Kal ka presentation ready hai, but I need to practice.",Kal,URD
+"Kal ka presentation ready hai, but I need to practice.",ka,URD
+"Kal ka presentation ready hai, but I need to practice.",presentation,ENG
+"Kal ka presentation ready hai, but I need to practice.",ready,ENG
+"Kal ka presentation ready hai, but I need to practice.",hai,URD
+"Kal ka presentation ready hai, but I need to practice.",but,ENG
+"Kal ka presentation ready hai, but I need to practice.",I,ENG
+"Kal ka presentation ready hai, but I need to practice.",need,ENG
+"Kal ka presentation ready hai, but I need to practice.",to,ENG
+"Kal ka presentation ready hai, but I need to practice.",practice,ENG
+"Bhai ye place bohot beautiful hai, let's take some pictures.",Bhai,URD
+"Bhai ye place bohot beautiful hai, let's take some pictures.",ye,URD
+"Bhai ye place bohot beautiful hai, let's take some pictures.",place,ENG
+"Bhai ye place bohot beautiful hai, let's take some pictures.",bohot,URD
+"Bhai ye place bohot beautiful hai, let's take some pictures.",beautiful,ENG
+"Bhai ye place bohot beautiful hai, let's take some pictures.",hai,URD
+"Bhai ye place bohot beautiful hai, let's take some pictures.",let's,ENG
+"Bhai ye place bohot beautiful hai, let's take some pictures.",take,ENG
+"Bhai ye place bohot beautiful hai, let's take some pictures.",some,ENG
+"Bhai ye place bohot beautiful hai, let's take some pictures.",pictures,ENG
+"Main tumhara message abhi dekha, sorry for the late reply.",Main,URD
+"Main tumhara message abhi dekha, sorry for the late reply.",tumhara,URD
+"Main tumhara message abhi dekha, sorry for the late reply.",message,ENG
+"Main tumhara message abhi dekha, sorry for the late reply.",abhi,URD
+"Main tumhara message abhi dekha, sorry for the late reply.",dekha,ENG
+"Main tumhara message abhi dekha, sorry for the late reply.",sorry,ENG
+"Main tumhara message abhi dekha, sorry for the late reply.",for,ENG
+"Main tumhara message abhi dekha, sorry for the late reply.",the,ENG
+"Main tumhara message abhi dekha, sorry for the late reply.",late,ENG
+"Main tumhara message abhi dekha, sorry for the late reply.",reply,ENG
+"Yaar this food is amazing, bohot maza aa raha hai.",Yaar,URD
+"Yaar this food is amazing, bohot maza aa raha hai.",this,ENG
+"Yaar this food is amazing, bohot maza aa raha hai.",food,ENG
+"Yaar this food is amazing, bohot maza aa raha hai.",is,URD
+"Yaar this food is amazing, bohot maza aa raha hai.",amazing,ENG
+"Yaar this food is amazing, bohot maza aa raha hai.",bohot,URD
+"Yaar this food is amazing, bohot maza aa raha hai.",maza,ENG
+"Yaar this food is amazing, bohot maza aa raha hai.",aa,ENG
+"Yaar this food is amazing, bohot maza aa raha hai.",raha,URD
+"Yaar this food is amazing, bohot maza aa raha hai.",hai,URD
+"Mujhe ghar pohanch kar call karna, I need to talk to you.",Mujhe,URD
+"Mujhe ghar pohanch kar call karna, I need to talk to you.",ghar,URD
+"Mujhe ghar pohanch kar call karna, I need to talk to you.",pohanch,URD
+"Mujhe ghar pohanch kar call karna, I need to talk to you.",kar,URD
+"Mujhe ghar pohanch kar call karna, I need to talk to you.",call,ENG
+"Mujhe ghar pohanch kar call karna, I need to talk to you.",karna,URD
+"Mujhe ghar pohanch kar call karna, I need to talk to you.",I,ENG
+"Mujhe ghar pohanch kar call karna, I need to talk to you.",need,ENG
+"Mujhe ghar pohanch kar call karna, I need to talk to you.",to,ENG
+"Mujhe ghar pohanch kar call karna, I need to talk to you.",talk,ENG
+"Mujhe ghar pohanch kar call karna, I need to talk to you.",to,ENG
+"Mujhe ghar pohanch kar call karna, I need to talk to you.",you,ENG
+"Aaj meri meeting online hai, so I will work from home.",Aaj,URD
+"Aaj meri meeting online hai, so I will work from home.",meri,URD
+"Aaj meri meeting online hai, so I will work from home.",meeting,ENG
+"Aaj meri meeting online hai, so I will work from home.",online,ENG
+"Aaj meri meeting online hai, so I will work from home.",hai,URD
+"Aaj meri meeting online hai, so I will work from home.",so,ENG
+"Aaj meri meeting online hai, so I will work from home.",I,ENG
+"Aaj meri meeting online hai, so I will work from home.",will,ENG
+"Aaj meri meeting online hai, so I will work from home.",work,ENG
+"Aaj meri meeting online hai, so I will work from home.",from,ENG
+"Aaj meri meeting online hai, so I will work from home.",home,ENG
+"Ye laptop fast hai, but battery thori weak hai.",Ye,URD
+"Ye laptop fast hai, but battery thori weak hai.",laptop,ENG
+"Ye laptop fast hai, but battery thori weak hai.",fast,ENG
+"Ye laptop fast hai, but battery thori weak hai.",hai,URD
+"Ye laptop fast hai, but battery thori weak hai.",but,ENG
+"Ye laptop fast hai, but battery thori weak hai.",battery,ENG
+"Ye laptop fast hai, but battery thori weak hai.",thori,URD
+"Ye laptop fast hai, but battery thori weak hai.",weak,ENG
+"Ye laptop fast hai, but battery thori weak hai.",hai,URD
+"Bhai don't be late, everyone is already waiting.",Bhai,URD
+"Bhai don't be late, everyone is already waiting.",don't,ENG
+"Bhai don't be late, everyone is already waiting.",be,ENG
+"Bhai don't be late, everyone is already waiting.",late,ENG
+"Bhai don't be late, everyone is already waiting.",everyone,ENG
+"Bhai don't be late, everyone is already waiting.",is,URD
+"Bhai don't be late, everyone is already waiting.",already,ENG
+"Bhai don't be late, everyone is already waiting.",waiting,ENG
+"Main ne saara data collect kar liya, now we can start.",Main,URD
+"Main ne saara data collect kar liya, now we can start.",ne,URD
+"Main ne saara data collect kar liya, now we can start.",saara,ENG
+"Main ne saara data collect kar liya, now we can start.",data,ENG
+"Main ne saara data collect kar liya, now we can start.",collect,ENG
+"Main ne saara data collect kar liya, now we can start.",kar,URD
+"Main ne saara data collect kar liya, now we can start.",liya,URD
+"Main ne saara data collect kar liya, now we can start.",now,ENG
+"Main ne saara data collect kar liya, now we can start.",we,ENG
+"Main ne saara data collect kar liya, now we can start.",can,ENG
+"Main ne saara data collect kar liya, now we can start.",start,ENG
+Yaar mujhe ye song baar baar sunne ka dil kar raha hai.,Yaar,URD
+Yaar mujhe ye song baar baar sunne ka dil kar raha hai.,mujhe,URD
+Yaar mujhe ye song baar baar sunne ka dil kar raha hai.,ye,URD
+Yaar mujhe ye song baar baar sunne ka dil kar raha hai.,song,ENG
+Yaar mujhe ye song baar baar sunne ka dil kar raha hai.,baar,ENG
+Yaar mujhe ye song baar baar sunne ka dil kar raha hai.,baar,ENG
+Yaar mujhe ye song baar baar sunne ka dil kar raha hai.,sunne,ENG
+Yaar mujhe ye song baar baar sunne ka dil kar raha hai.,ka,URD
+Yaar mujhe ye song baar baar sunne ka dil kar raha hai.,dil,ENG
+Yaar mujhe ye song baar baar sunne ka dil kar raha hai.,kar,URD
+Yaar mujhe ye song baar baar sunne ka dil kar raha hai.,raha,URD
+Yaar mujhe ye song baar baar sunne ka dil kar raha hai.,hai,URD
+Kal exam ke baad we can finally relax.,Kal,URD
+Kal exam ke baad we can finally relax.,exam,ENG
+Kal exam ke baad we can finally relax.,ke,URD
+Kal exam ke baad we can finally relax.,baad,URD
+Kal exam ke baad we can finally relax.,we,ENG
+Kal exam ke baad we can finally relax.,can,ENG
+Kal exam ke baad we can finally relax.,finally,ENG
+Kal exam ke baad we can finally relax.,relax,ENG
+"Mujhe ye explanation clear hai, thank you for helping me.",Mujhe,URD
+"Mujhe ye explanation clear hai, thank you for helping me.",ye,URD
+"Mujhe ye explanation clear hai, thank you for helping me.",explanation,ENG
+"Mujhe ye explanation clear hai, thank you for helping me.",clear,ENG
+"Mujhe ye explanation clear hai, thank you for helping me.",hai,URD
+"Mujhe ye explanation clear hai, thank you for helping me.",thank,ENG
+"Mujhe ye explanation clear hai, thank you for helping me.",you,ENG
+"Mujhe ye explanation clear hai, thank you for helping me.",for,ENG
+"Mujhe ye explanation clear hai, thank you for helping me.",helping,ENG
+"Mujhe ye explanation clear hai, thank you for helping me.",me,ENG
+"Please apni location share kar do, I am nearby.",Please,ENG
+"Please apni location share kar do, I am nearby.",apni,URD
+"Please apni location share kar do, I am nearby.",location,ENG
+"Please apni location share kar do, I am nearby.",share,ENG
+"Please apni location share kar do, I am nearby.",kar,URD
+"Please apni location share kar do, I am nearby.",do,URD
+"Please apni location share kar do, I am nearby.",I,ENG
+"Please apni location share kar do, I am nearby.",am,ENG
+"Please apni location share kar do, I am nearby.",nearby,ENG
+"Aaj ka weather bohot hot hai, I need some cold water.",Aaj,URD
+"Aaj ka weather bohot hot hai, I need some cold water.",ka,URD
+"Aaj ka weather bohot hot hai, I need some cold water.",weather,ENG
+"Aaj ka weather bohot hot hai, I need some cold water.",bohot,URD
+"Aaj ka weather bohot hot hai, I need some cold water.",hot,ENG
+"Aaj ka weather bohot hot hai, I need some cold water.",hai,URD
+"Aaj ka weather bohot hot hai, I need some cold water.",I,ENG
+"Aaj ka weather bohot hot hai, I need some cold water.",need,ENG
+"Aaj ka weather bohot hot hai, I need some cold water.",some,ENG
+"Aaj ka weather bohot hot hai, I need some cold water.",cold,ENG
+"Aaj ka weather bohot hot hai, I need some cold water.",water,ENG
+Bhai tumne project submit kar diya? I am still working on mine.,Bhai,URD
+Bhai tumne project submit kar diya? I am still working on mine.,tumne,ENG
+Bhai tumne project submit kar diya? I am still working on mine.,project,ENG
+Bhai tumne project submit kar diya? I am still working on mine.,submit,ENG
+Bhai tumne project submit kar diya? I am still working on mine.,kar,URD
+Bhai tumne project submit kar diya? I am still working on mine.,diya,ENG
+Bhai tumne project submit kar diya? I am still working on mine.,I,ENG
+Bhai tumne project submit kar diya? I am still working on mine.,am,ENG
+Bhai tumne project submit kar diya? I am still working on mine.,still,ENG
+Bhai tumne project submit kar diya? I am still working on mine.,working,ENG
+Bhai tumne project submit kar diya? I am still working on mine.,on,ENG
+Bhai tumne project submit kar diya? I am still working on mine.,mine,ENG
+"Yaar this idea sounds really good, let's do it.",Yaar,URD
+"Yaar this idea sounds really good, let's do it.",this,ENG
+"Yaar this idea sounds really good, let's do it.",idea,ENG
+"Yaar this idea sounds really good, let's do it.",sounds,ENG
+"Yaar this idea sounds really good, let's do it.",really,ENG
+"Yaar this idea sounds really good, let's do it.",good,ENG
+"Yaar this idea sounds really good, let's do it.",let's,ENG
+"Yaar this idea sounds really good, let's do it.",do,URD
+"Yaar this idea sounds really good, let's do it.",it,ENG
+"Main abhi ghar par hoon, you can call me.",Main,URD
+"Main abhi ghar par hoon, you can call me.",abhi,URD
+"Main abhi ghar par hoon, you can call me.",ghar,URD
+"Main abhi ghar par hoon, you can call me.",par,URD
+"Main abhi ghar par hoon, you can call me.",hoon,URD
+"Main abhi ghar par hoon, you can call me.",you,ENG
+"Main abhi ghar par hoon, you can call me.",can,ENG
+"Main abhi ghar par hoon, you can call me.",call,ENG
+"Main abhi ghar par hoon, you can call me.",me,ENG
+Ye dress simple hai but it looks elegant.,Ye,URD
+Ye dress simple hai but it looks elegant.,dress,ENG
+Ye dress simple hai but it looks elegant.,simple,ENG
+Ye dress simple hai but it looks elegant.,hai,URD
+Ye dress simple hai but it looks elegant.,but,ENG
+Ye dress simple hai but it looks elegant.,it,ENG
+Ye dress simple hai but it looks elegant.,looks,ENG
+Ye dress simple hai but it looks elegant.,elegant,ENG
+"Mujhe kal jaldi uthna hai, so I am going to sleep.",Mujhe,URD
+"Mujhe kal jaldi uthna hai, so I am going to sleep.",kal,URD
+"Mujhe kal jaldi uthna hai, so I am going to sleep.",jaldi,ENG
+"Mujhe kal jaldi uthna hai, so I am going to sleep.",uthna,ENG
+"Mujhe kal jaldi uthna hai, so I am going to sleep.",hai,URD
+"Mujhe kal jaldi uthna hai, so I am going to sleep.",so,ENG
+"Mujhe kal jaldi uthna hai, so I am going to sleep.",I,ENG
+"Mujhe kal jaldi uthna hai, so I am going to sleep.",am,ENG
+"Mujhe kal jaldi uthna hai, so I am going to sleep.",going,ENG
+"Mujhe kal jaldi uthna hai, so I am going to sleep.",to,ENG
+"Mujhe kal jaldi uthna hai, so I am going to sleep.",sleep,ENG
+"Bhai presentation ke slides ready hain, just need final edits.",Bhai,URD
+"Bhai presentation ke slides ready hain, just need final edits.",presentation,ENG
+"Bhai presentation ke slides ready hain, just need final edits.",ke,URD
+"Bhai presentation ke slides ready hain, just need final edits.",slides,ENG
+"Bhai presentation ke slides ready hain, just need final edits.",ready,ENG
+"Bhai presentation ke slides ready hain, just need final edits.",hain,URD
+"Bhai presentation ke slides ready hain, just need final edits.",just,ENG
+"Bhai presentation ke slides ready hain, just need final edits.",need,ENG
+"Bhai presentation ke slides ready hain, just need final edits.",final,ENG
+"Bhai presentation ke slides ready hain, just need final edits.",edits,ENG
+"Yaar I really enjoyed the vlog, it was so funny.",Yaar,URD
+"Yaar I really enjoyed the vlog, it was so funny.",I,ENG
+"Yaar I really enjoyed the vlog, it was so funny.",really,ENG
+"Yaar I really enjoyed the vlog, it was so funny.",enjoyed,ENG
+"Yaar I really enjoyed the vlog, it was so funny.",the,ENG
+"Yaar I really enjoyed the vlog, it was so funny.",vlog,ENG
+"Yaar I really enjoyed the vlog, it was so funny.",it,ENG
+"Yaar I really enjoyed the vlog, it was so funny.",was,ENG
+"Yaar I really enjoyed the vlog, it was so funny.",so,ENG
+"Yaar I really enjoyed the vlog, it was so funny.",funny,ENG
+"Main ne apna task complete kar liya, now waiting for feedback.",Main,URD
+"Main ne apna task complete kar liya, now waiting for feedback.",ne,URD
+"Main ne apna task complete kar liya, now waiting for feedback.",apna,URD
+"Main ne apna task complete kar liya, now waiting for feedback.",task,ENG
+"Main ne apna task complete kar liya, now waiting for feedback.",complete,ENG
+"Main ne apna task complete kar liya, now waiting for feedback.",kar,URD
+"Main ne apna task complete kar liya, now waiting for feedback.",liya,URD
+"Main ne apna task complete kar liya, now waiting for feedback.",now,ENG
+"Main ne apna task complete kar liya, now waiting for feedback.",waiting,ENG
+"Main ne apna task complete kar liya, now waiting for feedback.",for,ENG
+"Main ne apna task complete kar liya, now waiting for feedback.",feedback,ENG
+"Please ye file save kar lena, we may need it later.",Please,ENG
+"Please ye file save kar lena, we may need it later.",ye,URD
+"Please ye file save kar lena, we may need it later.",file,ENG
+"Please ye file save kar lena, we may need it later.",save,ENG
+"Please ye file save kar lena, we may need it later.",kar,URD
+"Please ye file save kar lena, we may need it later.",lena,ENG
+"Please ye file save kar lena, we may need it later.",we,ENG
+"Please ye file save kar lena, we may need it later.",may,ENG
+"Please ye file save kar lena, we may need it later.",need,ENG
+"Please ye file save kar lena, we may need it later.",it,ENG
+"Please ye file save kar lena, we may need it later.",later,ENG
+Aaj university ka environment bohot peaceful tha.,Aaj,URD
+Aaj university ka environment bohot peaceful tha.,university,ENG
+Aaj university ka environment bohot peaceful tha.,ka,URD
+Aaj university ka environment bohot peaceful tha.,environment,ENG
+Aaj university ka environment bohot peaceful tha.,bohot,URD
+Aaj university ka environment bohot peaceful tha.,peaceful,ENG
+Aaj university ka environment bohot peaceful tha.,tha,URD
+Mujhe lagta hai this project will be easier than the previous one.,Mujhe,URD
+Mujhe lagta hai this project will be easier than the previous one.,lagta,URD
+Mujhe lagta hai this project will be easier than the previous one.,hai,URD
+Mujhe lagta hai this project will be easier than the previous one.,this,ENG
+Mujhe lagta hai this project will be easier than the previous one.,project,ENG
+Mujhe lagta hai this project will be easier than the previous one.,will,ENG
+Mujhe lagta hai this project will be easier than the previous one.,be,ENG
+Mujhe lagta hai this project will be easier than the previous one.,easier,ENG
+Mujhe lagta hai this project will be easier than the previous one.,than,ENG
+Mujhe lagta hai this project will be easier than the previous one.,the,ENG
+Mujhe lagta hai this project will be easier than the previous one.,previous,ENG
+Mujhe lagta hai this project will be easier than the previous one.,one,ENG
+"Bhai mujhe thora confusion hai, can you explain it again?",Bhai,URD
+"Bhai mujhe thora confusion hai, can you explain it again?",mujhe,URD
+"Bhai mujhe thora confusion hai, can you explain it again?",thora,URD
+"Bhai mujhe thora confusion hai, can you explain it again?",confusion,ENG
+"Bhai mujhe thora confusion hai, can you explain it again?",hai,URD
+"Bhai mujhe thora confusion hai, can you explain it again?",can,ENG
+"Bhai mujhe thora confusion hai, can you explain it again?",you,ENG
+"Bhai mujhe thora confusion hai, can you explain it again?",explain,ENG
+"Bhai mujhe thora confusion hai, can you explain it again?",it,ENG
+"Bhai mujhe thora confusion hai, can you explain it again?",again,ENG
+Yaar kal ka event was actually really fun.,Yaar,URD
+Yaar kal ka event was actually really fun.,kal,URD
+Yaar kal ka event was actually really fun.,ka,URD
+Yaar kal ka event was actually really fun.,event,ENG
+Yaar kal ka event was actually really fun.,was,ENG
+Yaar kal ka event was actually really fun.,actually,ENG
+Yaar kal ka event was actually really fun.,really,ENG
+Yaar kal ka event was actually really fun.,fun,ENG
+"Main ne sab ko message kar diya, now we just have to wait.",Main,URD
+"Main ne sab ko message kar diya, now we just have to wait.",ne,URD
+"Main ne sab ko message kar diya, now we just have to wait.",sab,ENG
+"Main ne sab ko message kar diya, now we just have to wait.",ko,URD
+"Main ne sab ko message kar diya, now we just have to wait.",message,ENG
+"Main ne sab ko message kar diya, now we just have to wait.",kar,URD
+"Main ne sab ko message kar diya, now we just have to wait.",diya,ENG
+"Main ne sab ko message kar diya, now we just have to wait.",now,ENG
+"Main ne sab ko message kar diya, now we just have to wait.",we,ENG
+"Main ne sab ko message kar diya, now we just have to wait.",just,ENG
+"Main ne sab ko message kar diya, now we just have to wait.",have,ENG
+"Main ne sab ko message kar diya, now we just have to wait.",to,ENG
+"Main ne sab ko message kar diya, now we just have to wait.",wait,ENG
+"Ye result unexpected tha, but I am happy with it.",Ye,URD
+"Ye result unexpected tha, but I am happy with it.",result,ENG
+"Ye result unexpected tha, but I am happy with it.",unexpected,ENG
+"Ye result unexpected tha, but I am happy with it.",tha,URD
+"Ye result unexpected tha, but I am happy with it.",but,ENG
+"Ye result unexpected tha, but I am happy with it.",I,ENG
+"Ye result unexpected tha, but I am happy with it.",am,ENG
+"Ye result unexpected tha, but I am happy with it.",happy,ENG
+"Ye result unexpected tha, but I am happy with it.",with,ENG
+"Ye result unexpected tha, but I am happy with it.",it,ENG
+"Mujhe apni routine change karni hai, I need more productive days.",Mujhe,URD
+"Mujhe apni routine change karni hai, I need more productive days.",apni,URD
+"Mujhe apni routine change karni hai, I need more productive days.",routine,ENG
+"Mujhe apni routine change karni hai, I need more productive days.",change,ENG
+"Mujhe apni routine change karni hai, I need more productive days.",karni,URD
+"Mujhe apni routine change karni hai, I need more productive days.",hai,URD
+"Mujhe apni routine change karni hai, I need more productive days.",I,ENG
+"Mujhe apni routine change karni hai, I need more productive days.",need,ENG
+"Mujhe apni routine change karni hai, I need more productive days.",more,ENG
+"Mujhe apni routine change karni hai, I need more productive days.",productive,ENG
+"Mujhe apni routine change karni hai, I need more productive days.",days,ENG
+Please mujhe batao if you need any help.,Please,ENG
+Please mujhe batao if you need any help.,mujhe,URD
+Please mujhe batao if you need any help.,batao,URD
+Please mujhe batao if you need any help.,if,ENG
+Please mujhe batao if you need any help.,you,ENG
+Please mujhe batao if you need any help.,need,ENG
+Please mujhe batao if you need any help.,any,ENG
+Please mujhe batao if you need any help.,help,ENG
+"Aaj ka workload manageable tha, so I finished early.",Aaj,URD
+"Aaj ka workload manageable tha, so I finished early.",ka,URD
+"Aaj ka workload manageable tha, so I finished early.",workload,URD
+"Aaj ka workload manageable tha, so I finished early.",manageable,ENG
+"Aaj ka workload manageable tha, so I finished early.",tha,URD
+"Aaj ka workload manageable tha, so I finished early.",so,ENG
+"Aaj ka workload manageable tha, so I finished early.",I,ENG
+"Aaj ka workload manageable tha, so I finished early.",finished,ENG
+"Aaj ka workload manageable tha, so I finished early.",early,ENG
+Bhai this phone camera is really impressive.,Bhai,URD
+Bhai this phone camera is really impressive.,this,ENG
+Bhai this phone camera is really impressive.,phone,ENG
+Bhai this phone camera is really impressive.,camera,ENG
+Bhai this phone camera is really impressive.,is,URD
+Bhai this phone camera is really impressive.,really,ENG
+Bhai this phone camera is really impressive.,impressive,ENG
+"Main kal se proper study start karungi, no more excuses.",Main,URD
+"Main kal se proper study start karungi, no more excuses.",kal,URD
+"Main kal se proper study start karungi, no more excuses.",se,URD
+"Main kal se proper study start karungi, no more excuses.",proper,ENG
+"Main kal se proper study start karungi, no more excuses.",study,ENG
+"Main kal se proper study start karungi, no more excuses.",start,ENG
+"Main kal se proper study start karungi, no more excuses.",karungi,ENG
+"Main kal se proper study start karungi, no more excuses.",no,ENG
+"Main kal se proper study start karungi, no more excuses.",more,ENG
+"Main kal se proper study start karungi, no more excuses.",excuses,ENG
+Yaar ye first episode se hi interesting lag raha hai.,Yaar,URD
+Yaar ye first episode se hi interesting lag raha hai.,ye,URD
+Yaar ye first episode se hi interesting lag raha hai.,first,ENG
+Yaar ye first episode se hi interesting lag raha hai.,episode,ENG
+Yaar ye first episode se hi interesting lag raha hai.,se,URD
+Yaar ye first episode se hi interesting lag raha hai.,hi,ENG
+Yaar ye first episode se hi interesting lag raha hai.,interesting,ENG
+Yaar ye first episode se hi interesting lag raha hai.,lag,ENG
+Yaar ye first episode se hi interesting lag raha hai.,raha,URD
+Yaar ye first episode se hi interesting lag raha hai.,hai,URD
+"Mujhe abhi thori rest chahiye, then we can continue.",Mujhe,URD
+"Mujhe abhi thori rest chahiye, then we can continue.",abhi,URD
+"Mujhe abhi thori rest chahiye, then we can continue.",thori,URD
+"Mujhe abhi thori rest chahiye, then we can continue.",rest,URD
+"Mujhe abhi thori rest chahiye, then we can continue.",chahiye,URD
+"Mujhe abhi thori rest chahiye, then we can continue.",then,ENG
+"Mujhe abhi thori rest chahiye, then we can continue.",we,ENG
+"Mujhe abhi thori rest chahiye, then we can continue.",can,ENG
+"Mujhe abhi thori rest chahiye, then we can continue.",continue,ENG
+"Main ne meeting attend kar li, everything was discussed.",Main,URD
+"Main ne meeting attend kar li, everything was discussed.",ne,URD
+"Main ne meeting attend kar li, everything was discussed.",meeting,ENG
+"Main ne meeting attend kar li, everything was discussed.",attend,ENG
+"Main ne meeting attend kar li, everything was discussed.",kar,URD
+"Main ne meeting attend kar li, everything was discussed.",li,URD
+"Main ne meeting attend kar li, everything was discussed.",everything,ENG
+"Main ne meeting attend kar li, everything was discussed.",was,ENG
+"Main ne meeting attend kar li, everything was discussed.",discussed,ENG
+"Ye project ka idea simple hai, but implementation interesting hogi.",Ye,URD
+"Ye project ka idea simple hai, but implementation interesting hogi.",project,ENG
+"Ye project ka idea simple hai, but implementation interesting hogi.",ka,URD
+"Ye project ka idea simple hai, but implementation interesting hogi.",idea,ENG
+"Ye project ka idea simple hai, but implementation interesting hogi.",simple,ENG
+"Ye project ka idea simple hai, but implementation interesting hogi.",hai,URD
+"Ye project ka idea simple hai, but implementation interesting hogi.",but,ENG
+"Ye project ka idea simple hai, but implementation interesting hogi.",implementation,ENG
+"Ye project ka idea simple hai, but implementation interesting hogi.",interesting,ENG
+"Ye project ka idea simple hai, but implementation interesting hogi.",hogi,ENG
+Bhai mujhe ye answer confirm karna hai before submitting.,Bhai,URD
+Bhai mujhe ye answer confirm karna hai before submitting.,mujhe,URD
+Bhai mujhe ye answer confirm karna hai before submitting.,ye,URD
+Bhai mujhe ye answer confirm karna hai before submitting.,answer,ENG
+Bhai mujhe ye answer confirm karna hai before submitting.,confirm,ENG
+Bhai mujhe ye answer confirm karna hai before submitting.,karna,URD
+Bhai mujhe ye answer confirm karna hai before submitting.,hai,URD
+Bhai mujhe ye answer confirm karna hai before submitting.,before,ENG
+Bhai mujhe ye answer confirm karna hai before submitting.,submitting,ENG
+"Yaar your explanation was really helpful, thank you.",Yaar,URD
+"Yaar your explanation was really helpful, thank you.",your,ENG
+"Yaar your explanation was really helpful, thank you.",explanation,ENG
+"Yaar your explanation was really helpful, thank you.",was,ENG
+"Yaar your explanation was really helpful, thank you.",really,ENG
+"Yaar your explanation was really helpful, thank you.",helpful,ENG
+"Yaar your explanation was really helpful, thank you.",thank,ENG
+"Yaar your explanation was really helpful, thank you.",you,ENG
+"Main ghar pohanch gayi hoon, you can call now.",Main,URD
+"Main ghar pohanch gayi hoon, you can call now.",ghar,URD
+"Main ghar pohanch gayi hoon, you can call now.",pohanch,URD
+"Main ghar pohanch gayi hoon, you can call now.",gayi,URD
+"Main ghar pohanch gayi hoon, you can call now.",hoon,URD
+"Main ghar pohanch gayi hoon, you can call now.",you,ENG
+"Main ghar pohanch gayi hoon, you can call now.",can,ENG
+"Main ghar pohanch gayi hoon, you can call now.",call,ENG
+"Main ghar pohanch gayi hoon, you can call now.",now,ENG
+"Aaj ka din long tha, but finally it's over.",Aaj,URD
+"Aaj ka din long tha, but finally it's over.",ka,URD
+"Aaj ka din long tha, but finally it's over.",din,URD
+"Aaj ka din long tha, but finally it's over.",long,ENG
+"Aaj ka din long tha, but finally it's over.",tha,URD
+"Aaj ka din long tha, but finally it's over.",but,ENG
+"Aaj ka din long tha, but finally it's over.",finally,ENG
+"Aaj ka din long tha, but finally it's over.",it's,ENG
+"Aaj ka din long tha, but finally it's over.",over,ENG
+Mujhe lagta hai ye app students ke liye useful hogi.,Mujhe,URD
+Mujhe lagta hai ye app students ke liye useful hogi.,lagta,URD
+Mujhe lagta hai ye app students ke liye useful hogi.,hai,URD
+Mujhe lagta hai ye app students ke liye useful hogi.,ye,URD
+Mujhe lagta hai ye app students ke liye useful hogi.,app,ENG
+Mujhe lagta hai ye app students ke liye useful hogi.,students,ENG
+Mujhe lagta hai ye app students ke liye useful hogi.,ke,URD
+Mujhe lagta hai ye app students ke liye useful hogi.,liye,URD
+Mujhe lagta hai ye app students ke liye useful hogi.,useful,ENG
+Mujhe lagta hai ye app students ke liye useful hogi.,hogi,ENG
+"Please mujhe final version send kar do, I need to review it.",Please,ENG
+"Please mujhe final version send kar do, I need to review it.",mujhe,URD
+"Please mujhe final version send kar do, I need to review it.",final,ENG
+"Please mujhe final version send kar do, I need to review it.",version,ENG
+"Please mujhe final version send kar do, I need to review it.",send,ENG
+"Please mujhe final version send kar do, I need to review it.",kar,URD
+"Please mujhe final version send kar do, I need to review it.",do,URD
+"Please mujhe final version send kar do, I need to review it.",I,ENG
+"Please mujhe final version send kar do, I need to review it.",need,ENG
+"Please mujhe final version send kar do, I need to review it.",to,ENG
+"Please mujhe final version send kar do, I need to review it.",review,ENG
+"Please mujhe final version send kar do, I need to review it.",it,ENG
+"Bhai kal milte hain, we can discuss everything in person.",Bhai,URD
+"Bhai kal milte hain, we can discuss everything in person.",kal,URD
+"Bhai kal milte hain, we can discuss everything in person.",milte,URD
+"Bhai kal milte hain, we can discuss everything in person.",hain,URD
+"Bhai kal milte hain, we can discuss everything in person.",we,ENG
+"Bhai kal milte hain, we can discuss everything in person.",can,ENG
+"Bhai kal milte hain, we can discuss everything in person.",discuss,ENG
+"Bhai kal milte hain, we can discuss everything in person.",everything,ENG
+"Bhai kal milte hain, we can discuss everything in person.",in,ENG
+"Bhai kal milte hain, we can discuss everything in person.",person,ENG
+"Yaar I am really happy with the result, finally!",Yaar,URD
+"Yaar I am really happy with the result, finally!",I,ENG
+"Yaar I am really happy with the result, finally!",am,ENG
+"Yaar I am really happy with the result, finally!",really,ENG
+"Yaar I am really happy with the result, finally!",happy,ENG
+"Yaar I am really happy with the result, finally!",with,ENG
+"Yaar I am really happy with the result, finally!",the,ENG
+"Yaar I am really happy with the result, finally!",result,ENG
+"Yaar I am really happy with the result, finally!",finally,ENG
+"Main abhi assignment kar rahi hoon, will talk later.",Main,URD
+"Main abhi assignment kar rahi hoon, will talk later.",abhi,URD
+"Main abhi assignment kar rahi hoon, will talk later.",assignment,URD
+"Main abhi assignment kar rahi hoon, will talk later.",kar,URD
+"Main abhi assignment kar rahi hoon, will talk later.",rahi,URD
+"Main abhi assignment kar rahi hoon, will talk later.",hoon,URD
+"Main abhi assignment kar rahi hoon, will talk later.",will,ENG
+"Main abhi assignment kar rahi hoon, will talk later.",talk,ENG
+"Main abhi assignment kar rahi hoon, will talk later.",later,ENG
+"Ye video bohot informative tha, I learned something new.",Ye,URD
+"Ye video bohot informative tha, I learned something new.",video,ENG
+"Ye video bohot informative tha, I learned something new.",bohot,URD
+"Ye video bohot informative tha, I learned something new.",informative,ENG
+"Ye video bohot informative tha, I learned something new.",tha,URD
+"Ye video bohot informative tha, I learned something new.",I,ENG
+"Ye video bohot informative tha, I learned something new.",learned,ENG
+"Ye video bohot informative tha, I learned something new.",something,ENG
+"Ye video bohot informative tha, I learned something new.",new,ENG
+"Mujhe tumhari advice chahiye, what should I do?",Mujhe,URD
+"Mujhe tumhari advice chahiye, what should I do?",tumhari,URD
+"Mujhe tumhari advice chahiye, what should I do?",advice,ENG
+"Mujhe tumhari advice chahiye, what should I do?",chahiye,URD
+"Mujhe tumhari advice chahiye, what should I do?",what,ENG
+"Mujhe tumhari advice chahiye, what should I do?",should,ENG
+"Mujhe tumhari advice chahiye, what should I do?",I,ENG
+"Mujhe tumhari advice chahiye, what should I do?",do,URD
+"Aaj ka plan cancel nahi karna, everyone is excited.",Aaj,URD
+"Aaj ka plan cancel nahi karna, everyone is excited.",ka,URD
+"Aaj ka plan cancel nahi karna, everyone is excited.",plan,ENG
+"Aaj ka plan cancel nahi karna, everyone is excited.",cancel,ENG
+"Aaj ka plan cancel nahi karna, everyone is excited.",nahi,URD
+"Aaj ka plan cancel nahi karna, everyone is excited.",karna,URD
+"Aaj ka plan cancel nahi karna, everyone is excited.",everyone,ENG
+"Aaj ka plan cancel nahi karna, everyone is excited.",is,URD
+"Aaj ka plan cancel nahi karna, everyone is excited.",excited,ENG
+Bhai this is actually a very good idea.,Bhai,URD
+Bhai this is actually a very good idea.,this,ENG
+Bhai this is actually a very good idea.,is,URD
+Bhai this is actually a very good idea.,actually,ENG
+Bhai this is actually a very good idea.,a,ENG
+Bhai this is actually a very good idea.,very,ENG
+Bhai this is actually a very good idea.,good,ENG
+Bhai this is actually a very good idea.,idea,ENG
+"Main ne apna laptop charge par laga diya, now it's ready.",Main,URD
+"Main ne apna laptop charge par laga diya, now it's ready.",ne,URD
+"Main ne apna laptop charge par laga diya, now it's ready.",apna,URD
+"Main ne apna laptop charge par laga diya, now it's ready.",laptop,ENG
+"Main ne apna laptop charge par laga diya, now it's ready.",charge,ENG
+"Main ne apna laptop charge par laga diya, now it's ready.",par,URD
+"Main ne apna laptop charge par laga diya, now it's ready.",laga,ENG
+"Main ne apna laptop charge par laga diya, now it's ready.",diya,ENG
+"Main ne apna laptop charge par laga diya, now it's ready.",now,ENG
+"Main ne apna laptop charge par laga diya, now it's ready.",it's,ENG
+"Main ne apna laptop charge par laga diya, now it's ready.",ready,ENG
+"Yaar mujhe ye place bohot pasand aya, we should visit again.",Yaar,URD
+"Yaar mujhe ye place bohot pasand aya, we should visit again.",mujhe,URD
+"Yaar mujhe ye place bohot pasand aya, we should visit again.",ye,URD
+"Yaar mujhe ye place bohot pasand aya, we should visit again.",place,ENG
+"Yaar mujhe ye place bohot pasand aya, we should visit again.",bohot,URD
+"Yaar mujhe ye place bohot pasand aya, we should visit again.",pasand,URD
+"Yaar mujhe ye place bohot pasand aya, we should visit again.",aya,URD
+"Yaar mujhe ye place bohot pasand aya, we should visit again.",we,ENG
+"Yaar mujhe ye place bohot pasand aya, we should visit again.",should,ENG
+"Yaar mujhe ye place bohot pasand aya, we should visit again.",visit,ENG
+"Yaar mujhe ye place bohot pasand aya, we should visit again.",again,ENG
+"Kal se new semester start hai, I am excited.",Kal,URD
+"Kal se new semester start hai, I am excited.",se,URD
+"Kal se new semester start hai, I am excited.",new,ENG
+"Kal se new semester start hai, I am excited.",semester,ENG
+"Kal se new semester start hai, I am excited.",start,ENG
+"Kal se new semester start hai, I am excited.",hai,URD
+"Kal se new semester start hai, I am excited.",I,ENG
+"Kal se new semester start hai, I am excited.",am,ENG
+"Kal se new semester start hai, I am excited.",excited,ENG
+Please mujhe document ka updated version bhej dena.,Please,ENG
+Please mujhe document ka updated version bhej dena.,mujhe,URD
+Please mujhe document ka updated version bhej dena.,document,ENG
+Please mujhe document ka updated version bhej dena.,ka,URD
+Please mujhe document ka updated version bhej dena.,updated,ENG
+Please mujhe document ka updated version bhej dena.,version,ENG
+Please mujhe document ka updated version bhej dena.,bhej,ENG
+Please mujhe document ka updated version bhej dena.,dena,URD
+"Ye task thora difficult hai, but I can handle it.",Ye,URD
+"Ye task thora difficult hai, but I can handle it.",task,ENG
+"Ye task thora difficult hai, but I can handle it.",thora,URD
+"Ye task thora difficult hai, but I can handle it.",difficult,ENG
+"Ye task thora difficult hai, but I can handle it.",hai,URD
+"Ye task thora difficult hai, but I can handle it.",but,ENG
+"Ye task thora difficult hai, but I can handle it.",I,ENG
+"Ye task thora difficult hai, but I can handle it.",can,ENG
+"Ye task thora difficult hai, but I can handle it.",handle,ENG
+"Ye task thora difficult hai, but I can handle it.",it,ENG
+"Bhai I understand your point, lekin mujhe ye option better lagta hai.",Bhai,URD
+"Bhai I understand your point, lekin mujhe ye option better lagta hai.",I,ENG
+"Bhai I understand your point, lekin mujhe ye option better lagta hai.",understand,ENG
+"Bhai I understand your point, lekin mujhe ye option better lagta hai.",your,ENG
+"Bhai I understand your point, lekin mujhe ye option better lagta hai.",point,ENG
+"Bhai I understand your point, lekin mujhe ye option better lagta hai.",lekin,URD
+"Bhai I understand your point, lekin mujhe ye option better lagta hai.",mujhe,URD
+"Bhai I understand your point, lekin mujhe ye option better lagta hai.",ye,URD
+"Bhai I understand your point, lekin mujhe ye option better lagta hai.",option,ENG
+"Bhai I understand your point, lekin mujhe ye option better lagta hai.",better,ENG
+"Bhai I understand your point, lekin mujhe ye option better lagta hai.",lagta,URD
+"Bhai I understand your point, lekin mujhe ye option better lagta hai.",hai,URD
+Yaar honestly mujhe bhi ye idea bohot acha laga.,Yaar,URD
+Yaar honestly mujhe bhi ye idea bohot acha laga.,honestly,ENG
+Yaar honestly mujhe bhi ye idea bohot acha laga.,mujhe,URD
+Yaar honestly mujhe bhi ye idea bohot acha laga.,bhi,URD
+Yaar honestly mujhe bhi ye idea bohot acha laga.,ye,URD
+Yaar honestly mujhe bhi ye idea bohot acha laga.,idea,ENG
+Yaar honestly mujhe bhi ye idea bohot acha laga.,bohot,URD
+Yaar honestly mujhe bhi ye idea bohot acha laga.,acha,URD
+Yaar honestly mujhe bhi ye idea bohot acha laga.,laga,ENG
+"Main ne notes organize kar liye, now studying will be easier.",Main,URD
+"Main ne notes organize kar liye, now studying will be easier.",ne,URD
+"Main ne notes organize kar liye, now studying will be easier.",notes,ENG
+"Main ne notes organize kar liye, now studying will be easier.",organize,ENG
+"Main ne notes organize kar liye, now studying will be easier.",kar,URD
+"Main ne notes organize kar liye, now studying will be easier.",liye,URD
+"Main ne notes organize kar liye, now studying will be easier.",now,ENG
+"Main ne notes organize kar liye, now studying will be easier.",studying,ENG
+"Main ne notes organize kar liye, now studying will be easier.",will,ENG
+"Main ne notes organize kar liye, now studying will be easier.",be,ENG
+"Main ne notes organize kar liye, now studying will be easier.",easier,ENG
+"Aaj ka meeting schedule change ho gaya, check your email.",Aaj,URD
+"Aaj ka meeting schedule change ho gaya, check your email.",ka,URD
+"Aaj ka meeting schedule change ho gaya, check your email.",meeting,ENG
+"Aaj ka meeting schedule change ho gaya, check your email.",schedule,ENG
+"Aaj ka meeting schedule change ho gaya, check your email.",change,ENG
+"Aaj ka meeting schedule change ho gaya, check your email.",ho,URD
+"Aaj ka meeting schedule change ho gaya, check your email.",gaya,URD
+"Aaj ka meeting schedule change ho gaya, check your email.",check,ENG
+"Aaj ka meeting schedule change ho gaya, check your email.",your,ENG
+"Aaj ka meeting schedule change ho gaya, check your email.",email,ENG
+Mujhe lagta hai we should start early tomorrow.,Mujhe,URD
+Mujhe lagta hai we should start early tomorrow.,lagta,URD
+Mujhe lagta hai we should start early tomorrow.,hai,URD
+Mujhe lagta hai we should start early tomorrow.,we,ENG
+Mujhe lagta hai we should start early tomorrow.,should,ENG
+Mujhe lagta hai we should start early tomorrow.,start,ENG
+Mujhe lagta hai we should start early tomorrow.,early,ENG
+Mujhe lagta hai we should start early tomorrow.,tomorrow,ENG
+Please mujhe bata dena when you finish the task.,Please,ENG
+Please mujhe bata dena when you finish the task.,mujhe,URD
+Please mujhe bata dena when you finish the task.,bata,URD
+Please mujhe bata dena when you finish the task.,dena,URD
+Please mujhe bata dena when you finish the task.,when,ENG
+Please mujhe bata dena when you finish the task.,you,ENG
+Please mujhe bata dena when you finish the task.,finish,ENG
+Please mujhe bata dena when you finish the task.,the,ENG
+Please mujhe bata dena when you finish the task.,task,ENG
+"Ye vlog pichle vlog se zyada entertaining tha, keep going!",Ye,URD
+"Ye vlog pichle vlog se zyada entertaining tha, keep going!",vlog,ENG
+"Ye vlog pichle vlog se zyada entertaining tha, keep going!",pichle,ENG
+"Ye vlog pichle vlog se zyada entertaining tha, keep going!",vlog,ENG
+"Ye vlog pichle vlog se zyada entertaining tha, keep going!",se,URD
+"Ye vlog pichle vlog se zyada entertaining tha, keep going!",zyada,URD
+"Ye vlog pichle vlog se zyada entertaining tha, keep going!",entertaining,ENG
+"Ye vlog pichle vlog se zyada entertaining tha, keep going!",tha,URD
+"Ye vlog pichle vlog se zyada entertaining tha, keep going!",keep,ENG
+"Ye vlog pichle vlog se zyada entertaining tha, keep going!",going,ENG
+"Bhai mujhe ye chapter revise karna hai, then I will be ready.",Bhai,URD
+"Bhai mujhe ye chapter revise karna hai, then I will be ready.",mujhe,URD
+"Bhai mujhe ye chapter revise karna hai, then I will be ready.",ye,URD
+"Bhai mujhe ye chapter revise karna hai, then I will be ready.",chapter,ENG
+"Bhai mujhe ye chapter revise karna hai, then I will be ready.",revise,ENG
+"Bhai mujhe ye chapter revise karna hai, then I will be ready.",karna,URD
+"Bhai mujhe ye chapter revise karna hai, then I will be ready.",hai,URD
+"Bhai mujhe ye chapter revise karna hai, then I will be ready.",then,ENG
+"Bhai mujhe ye chapter revise karna hai, then I will be ready.",I,ENG
+"Bhai mujhe ye chapter revise karna hai, then I will be ready.",will,ENG
+"Bhai mujhe ye chapter revise karna hai, then I will be ready.",be,ENG
+"Bhai mujhe ye chapter revise karna hai, then I will be ready.",ready,ENG
+"Yaar I can't believe it, finally hamara project complete ho gaya.",Yaar,URD
+"Yaar I can't believe it, finally hamara project complete ho gaya.",I,ENG
+"Yaar I can't believe it, finally hamara project complete ho gaya.",can't,ENG
+"Yaar I can't believe it, finally hamara project complete ho gaya.",believe,ENG
+"Yaar I can't believe it, finally hamara project complete ho gaya.",it,ENG
+"Yaar I can't believe it, finally hamara project complete ho gaya.",finally,ENG
+"Yaar I can't believe it, finally hamara project complete ho gaya.",hamara,URD
+"Yaar I can't believe it, finally hamara project complete ho gaya.",project,ENG
+"Yaar I can't believe it, finally hamara project complete ho gaya.",complete,ENG
+"Yaar I can't believe it, finally hamara project complete ho gaya.",ho,URD
+"Yaar I can't believe it, finally hamara project complete ho gaya.",gaya,URD
+"Main ne sab requirements check kar li hain, everything looks good.",Main,URD
+"Main ne sab requirements check kar li hain, everything looks good.",ne,URD
+"Main ne sab requirements check kar li hain, everything looks good.",sab,ENG
+"Main ne sab requirements check kar li hain, everything looks good.",requirements,ENG
+"Main ne sab requirements check kar li hain, everything looks good.",check,ENG
+"Main ne sab requirements check kar li hain, everything looks good.",kar,URD
+"Main ne sab requirements check kar li hain, everything looks good.",li,URD
+"Main ne sab requirements check kar li hain, everything looks good.",hain,URD
+"Main ne sab requirements check kar li hain, everything looks good.",everything,ENG
+"Main ne sab requirements check kar li hain, everything looks good.",looks,ENG
+"Main ne sab requirements check kar li hain, everything looks good.",good,ENG
+"Aaj ka presentation short tha, but it was very informative.",Aaj,URD
+"Aaj ka presentation short tha, but it was very informative.",ka,URD
+"Aaj ka presentation short tha, but it was very informative.",presentation,ENG
+"Aaj ka presentation short tha, but it was very informative.",short,ENG
+"Aaj ka presentation short tha, but it was very informative.",tha,URD
+"Aaj ka presentation short tha, but it was very informative.",but,ENG
+"Aaj ka presentation short tha, but it was very informative.",it,ENG
+"Aaj ka presentation short tha, but it was very informative.",was,ENG
+"Aaj ka presentation short tha, but it was very informative.",very,ENG
+"Aaj ka presentation short tha, but it was very informative.",informative,ENG
+"Mujhe ab confidence aa raha hai, I think we can do this.",Mujhe,URD
+"Mujhe ab confidence aa raha hai, I think we can do this.",ab,ENG
+"Mujhe ab confidence aa raha hai, I think we can do this.",confidence,ENG
+"Mujhe ab confidence aa raha hai, I think we can do this.",aa,ENG
+"Mujhe ab confidence aa raha hai, I think we can do this.",raha,URD
+"Mujhe ab confidence aa raha hai, I think we can do this.",hai,URD
+"Mujhe ab confidence aa raha hai, I think we can do this.",I,ENG
+"Mujhe ab confidence aa raha hai, I think we can do this.",think,ENG
+"Mujhe ab confidence aa raha hai, I think we can do this.",we,ENG
+"Mujhe ab confidence aa raha hai, I think we can do this.",can,ENG
+"Mujhe ab confidence aa raha hai, I think we can do this.",do,URD
+"Mujhe ab confidence aa raha hai, I think we can do this.",this,ENG
+"Please mujhe ek minute do, I am almost done.",Please,ENG
+"Please mujhe ek minute do, I am almost done.",mujhe,URD
+"Please mujhe ek minute do, I am almost done.",ek,ENG
+"Please mujhe ek minute do, I am almost done.",minute,ENG
+"Please mujhe ek minute do, I am almost done.",do,URD
+"Please mujhe ek minute do, I am almost done.",I,ENG
+"Please mujhe ek minute do, I am almost done.",am,ENG
+"Please mujhe ek minute do, I am almost done.",almost,ENG
+"Please mujhe ek minute do, I am almost done.",done,ENG
+"Bhai kal ka test easy tha, but some questions were tricky.",Bhai,URD
+"Bhai kal ka test easy tha, but some questions were tricky.",kal,URD
+"Bhai kal ka test easy tha, but some questions were tricky.",ka,URD
+"Bhai kal ka test easy tha, but some questions were tricky.",test,ENG
+"Bhai kal ka test easy tha, but some questions were tricky.",easy,ENG
+"Bhai kal ka test easy tha, but some questions were tricky.",tha,URD
+"Bhai kal ka test easy tha, but some questions were tricky.",but,ENG
+"Bhai kal ka test easy tha, but some questions were tricky.",some,ENG
+"Bhai kal ka test easy tha, but some questions were tricky.",questions,ENG
+"Bhai kal ka test easy tha, but some questions were tricky.",were,ENG
+"Bhai kal ka test easy tha, but some questions were tricky.",tricky,ENG
+"Yaar this song is stuck in my head, bohot catchy hai.",Yaar,URD
+"Yaar this song is stuck in my head, bohot catchy hai.",this,ENG
+"Yaar this song is stuck in my head, bohot catchy hai.",song,ENG
+"Yaar this song is stuck in my head, bohot catchy hai.",is,URD
+"Yaar this song is stuck in my head, bohot catchy hai.",stuck,ENG
+"Yaar this song is stuck in my head, bohot catchy hai.",in,ENG
+"Yaar this song is stuck in my head, bohot catchy hai.",my,ENG
+"Yaar this song is stuck in my head, bohot catchy hai.",head,ENG
+"Yaar this song is stuck in my head, bohot catchy hai.",bohot,URD
+"Yaar this song is stuck in my head, bohot catchy hai.",catchy,ENG
+"Yaar this song is stuck in my head, bohot catchy hai.",hai,URD
+"Main ne screenshots collect kar liye, now we can label them.",Main,URD
+"Main ne screenshots collect kar liye, now we can label them.",ne,URD
+"Main ne screenshots collect kar liye, now we can label them.",screenshots,ENG
+"Main ne screenshots collect kar liye, now we can label them.",collect,ENG
+"Main ne screenshots collect kar liye, now we can label them.",kar,URD
+"Main ne screenshots collect kar liye, now we can label them.",liye,URD
+"Main ne screenshots collect kar liye, now we can label them.",now,ENG
+"Main ne screenshots collect kar liye, now we can label them.",we,ENG
+"Main ne screenshots collect kar liye, now we can label them.",can,ENG
+"Main ne screenshots collect kar liye, now we can label them.",label,ENG
+"Main ne screenshots collect kar liye, now we can label them.",them,ENG
+"Ye sentence mixed hai, because Urdu aur English dono use huay hain.",Ye,URD
+"Ye sentence mixed hai, because Urdu aur English dono use huay hain.",sentence,ENG
+"Ye sentence mixed hai, because Urdu aur English dono use huay hain.",mixed,ENG
+"Ye sentence mixed hai, because Urdu aur English dono use huay hain.",hai,URD
+"Ye sentence mixed hai, because Urdu aur English dono use huay hain.",because,ENG
+"Ye sentence mixed hai, because Urdu aur English dono use huay hain.",Urdu,ENG
+"Ye sentence mixed hai, because Urdu aur English dono use huay hain.",aur,URD
+"Ye sentence mixed hai, because Urdu aur English dono use huay hain.",English,ENG
+"Ye sentence mixed hai, because Urdu aur English dono use huay hain.",dono,ENG
+"Ye sentence mixed hai, because Urdu aur English dono use huay hain.",use,ENG
+"Ye sentence mixed hai, because Urdu aur English dono use huay hain.",huay,ENG
+"Ye sentence mixed hai, because Urdu aur English dono use huay hain.",hain,URD
+"Mujhe dataset clean rakhna hai, so we should remove duplicates.",Mujhe,URD
+"Mujhe dataset clean rakhna hai, so we should remove duplicates.",dataset,ENG
+"Mujhe dataset clean rakhna hai, so we should remove duplicates.",clean,ENG
+"Mujhe dataset clean rakhna hai, so we should remove duplicates.",rakhna,ENG
+"Mujhe dataset clean rakhna hai, so we should remove duplicates.",hai,URD
+"Mujhe dataset clean rakhna hai, so we should remove duplicates.",so,ENG
+"Mujhe dataset clean rakhna hai, so we should remove duplicates.",we,ENG
+"Mujhe dataset clean rakhna hai, so we should remove duplicates.",should,ENG
+"Mujhe dataset clean rakhna hai, so we should remove duplicates.",remove,ENG
+"Mujhe dataset clean rakhna hai, so we should remove duplicates.",duplicates,ENG
+"Bhai labels check kar lena, I don't want any mistakes.",Bhai,URD
+"Bhai labels check kar lena, I don't want any mistakes.",labels,ENG
+"Bhai labels check kar lena, I don't want any mistakes.",check,ENG
+"Bhai labels check kar lena, I don't want any mistakes.",kar,URD
+"Bhai labels check kar lena, I don't want any mistakes.",lena,ENG
+"Bhai labels check kar lena, I don't want any mistakes.",I,ENG
+"Bhai labels check kar lena, I don't want any mistakes.",don't,ENG
+"Bhai labels check kar lena, I don't want any mistakes.",want,ENG
+"Bhai labels check kar lena, I don't want any mistakes.",any,ENG
+"Bhai labels check kar lena, I don't want any mistakes.",mistakes,ENG
+"Yaar project ka workflow clear hai, now we just need to implement it.",Yaar,URD
+"Yaar project ka workflow clear hai, now we just need to implement it.",project,ENG
+"Yaar project ka workflow clear hai, now we just need to implement it.",ka,URD
+"Yaar project ka workflow clear hai, now we just need to implement it.",workflow,ENG
+"Yaar project ka workflow clear hai, now we just need to implement it.",clear,ENG
+"Yaar project ka workflow clear hai, now we just need to implement it.",hai,URD
+"Yaar project ka workflow clear hai, now we just need to implement it.",now,ENG
+"Yaar project ka workflow clear hai, now we just need to implement it.",we,ENG
+"Yaar project ka workflow clear hai, now we just need to implement it.",just,ENG
+"Yaar project ka workflow clear hai, now we just need to implement it.",need,ENG
+"Yaar project ka workflow clear hai, now we just need to implement it.",to,ENG
+"Yaar project ka workflow clear hai, now we just need to implement it.",implement,ENG
+"Yaar project ka workflow clear hai, now we just need to implement it.",it,ENG
+"Main data save kar rahi hoon, then I will upload it.",Main,URD
+"Main data save kar rahi hoon, then I will upload it.",data,ENG
+"Main data save kar rahi hoon, then I will upload it.",save,ENG
+"Main data save kar rahi hoon, then I will upload it.",kar,URD
+"Main data save kar rahi hoon, then I will upload it.",rahi,URD
+"Main data save kar rahi hoon, then I will upload it.",hoon,URD
+"Main data save kar rahi hoon, then I will upload it.",then,ENG
+"Main data save kar rahi hoon, then I will upload it.",I,ENG
+"Main data save kar rahi hoon, then I will upload it.",will,ENG
+"Main data save kar rahi hoon, then I will upload it.",upload,ENG
+"Main data save kar rahi hoon, then I will upload it.",it,ENG
+"Ye example perfect hai, because both languages are naturally mixed.",Ye,URD
+"Ye example perfect hai, because both languages are naturally mixed.",example,ENG
+"Ye example perfect hai, because both languages are naturally mixed.",perfect,ENG
+"Ye example perfect hai, because both languages are naturally mixed.",hai,URD
+"Ye example perfect hai, because both languages are naturally mixed.",because,ENG
+"Ye example perfect hai, because both languages are naturally mixed.",both,ENG
+"Ye example perfect hai, because both languages are naturally mixed.",languages,ENG
+"Ye example perfect hai, because both languages are naturally mixed.",are,ENG
+"Ye example perfect hai, because both languages are naturally mixed.",naturally,ENG
+"Ye example perfect hai, because both languages are naturally mixed.",mixed,ENG
+"Mujhe final CSV banana hai, then upload it on Hugging Face.",Mujhe,URD
+"Mujhe final CSV banana hai, then upload it on Hugging Face.",final,ENG
+"Mujhe final CSV banana hai, then upload it on Hugging Face.",CSV,ENG
+"Mujhe final CSV banana hai, then upload it on Hugging Face.",banana,ENG
+"Mujhe final CSV banana hai, then upload it on Hugging Face.",hai,URD
+"Mujhe final CSV banana hai, then upload it on Hugging Face.",then,ENG
+"Mujhe final CSV banana hai, then upload it on Hugging Face.",upload,ENG
+"Mujhe final CSV banana hai, then upload it on Hugging Face.",it,ENG
+"Mujhe final CSV banana hai, then upload it on Hugging Face.",on,ENG
+"Mujhe final CSV banana hai, then upload it on Hugging Face.",Hugging,ENG
+"Mujhe final CSV banana hai, then upload it on Hugging Face.",Face,ENG
+Please duplicate sentences remove kar dena before final submission.,Please,ENG
+Please duplicate sentences remove kar dena before final submission.,duplicate,ENG
+Please duplicate sentences remove kar dena before final submission.,sentences,ENG
+Please duplicate sentences remove kar dena before final submission.,remove,ENG
+Please duplicate sentences remove kar dena before final submission.,kar,URD
+Please duplicate sentences remove kar dena before final submission.,dena,URD
+Please duplicate sentences remove kar dena before final submission.,before,ENG
+Please duplicate sentences remove kar dena before final submission.,final,ENG
+Please duplicate sentences remove kar dena before final submission.,submission,ENG
+"Bhai dataset ready hai, now we can move to the next step.",Bhai,URD
+"Bhai dataset ready hai, now we can move to the next step.",dataset,ENG
+"Bhai dataset ready hai, now we can move to the next step.",ready,ENG
+"Bhai dataset ready hai, now we can move to the next step.",hai,URD
+"Bhai dataset ready hai, now we can move to the next step.",now,ENG
+"Bhai dataset ready hai, now we can move to the next step.",we,ENG
+"Bhai dataset ready hai, now we can move to the next step.",can,ENG
+"Bhai dataset ready hai, now we can move to the next step.",move,ENG
+"Bhai dataset ready hai, now we can move to the next step.",to,ENG
+"Bhai dataset ready hai, now we can move to the next step.",the,ENG
+"Bhai dataset ready hai, now we can move to the next step.",next,ENG
+"Bhai dataset ready hai, now we can move to the next step.",step,ENG
+Yaar I think our dataset is looking really good now.,Yaar,URD
+Yaar I think our dataset is looking really good now.,I,ENG
+Yaar I think our dataset is looking really good now.,think,ENG
+Yaar I think our dataset is looking really good now.,our,ENG
+Yaar I think our dataset is looking really good now.,dataset,ENG
+Yaar I think our dataset is looking really good now.,is,URD
+Yaar I think our dataset is looking really good now.,looking,ENG
+Yaar I think our dataset is looking really good now.,really,ENG
+Yaar I think our dataset is looking really good now.,good,ENG
+Yaar I think our dataset is looking really good now.,now,ENG
+"Main final review karungi, phir dataset publish kar denge.",Main,URD
+"Main final review karungi, phir dataset publish kar denge.",final,ENG
+"Main final review karungi, phir dataset publish kar denge.",review,ENG
+"Main final review karungi, phir dataset publish kar denge.",karungi,ENG
+"Main final review karungi, phir dataset publish kar denge.",phir,URD
+"Main final review karungi, phir dataset publish kar denge.",dataset,ENG
+"Main final review karungi, phir dataset publish kar denge.",publish,ENG
+"Main final review karungi, phir dataset publish kar denge.",kar,URD
+"Main final review karungi, phir dataset publish kar denge.",denge,ENG
+"Ye project simple lag raha hai, but accuracy important hogi.",Ye,URD
+"Ye project simple lag raha hai, but accuracy important hogi.",project,ENG
+"Ye project simple lag raha hai, but accuracy important hogi.",simple,ENG
+"Ye project simple lag raha hai, but accuracy important hogi.",lag,ENG
+"Ye project simple lag raha hai, but accuracy important hogi.",raha,URD
+"Ye project simple lag raha hai, but accuracy important hogi.",hai,URD
+"Ye project simple lag raha hai, but accuracy important hogi.",but,ENG
+"Ye project simple lag raha hai, but accuracy important hogi.",accuracy,ENG
+"Ye project simple lag raha hai, but accuracy important hogi.",important,ENG
+"Ye project simple lag raha hai, but accuracy important hogi.",hogi,ENG
+Mujhe har word ka label carefully check karna hai.,Mujhe,URD
+Mujhe har word ka label carefully check karna hai.,har,ENG
+Mujhe har word ka label carefully check karna hai.,word,ENG
+Mujhe har word ka label carefully check karna hai.,ka,URD
+Mujhe har word ka label carefully check karna hai.,label,ENG
+Mujhe har word ka label carefully check karna hai.,carefully,ENG
+Mujhe har word ka label carefully check karna hai.,check,ENG
+Mujhe har word ka label carefully check karna hai.,karna,URD
+Mujhe har word ka label carefully check karna hai.,hai,URD
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,Bhai,URD
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,English,ENG
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,words,ENG
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,ko,URD
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,ENG,ENG
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,aur,URD
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,Roman,ENG
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,Urdu,ENG
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,ko,URD
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,URD,ENG
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,label,ENG
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,karna,URD
+Bhai English words ko ENG aur Roman Urdu ko URD label karna hai.,hai,URD
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,Yaar,URD
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,MIX,ENG
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,label,ENG
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,tab,ENG
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,use,ENG
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,karna,URD
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,hai,URD
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,jab,URD
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,word,ENG
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,dono,ENG
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,languages,ENG
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,se,URD
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,related,ENG
+Yaar MIX label tab use karna hai jab word dono languages se related ho.,ho,URD
+"Main abhi labels verify kar rahi hoon, will update you soon.",Main,URD
+"Main abhi labels verify kar rahi hoon, will update you soon.",abhi,URD
+"Main abhi labels verify kar rahi hoon, will update you soon.",labels,ENG
+"Main abhi labels verify kar rahi hoon, will update you soon.",verify,ENG
+"Main abhi labels verify kar rahi hoon, will update you soon.",kar,URD
+"Main abhi labels verify kar rahi hoon, will update you soon.",rahi,URD
+"Main abhi labels verify kar rahi hoon, will update you soon.",hoon,URD
+"Main abhi labels verify kar rahi hoon, will update you soon.",will,ENG
+"Main abhi labels verify kar rahi hoon, will update you soon.",update,ENG
+"Main abhi labels verify kar rahi hoon, will update you soon.",you,ENG
+"Main abhi labels verify kar rahi hoon, will update you soon.",soon,ENG
+"Dataset complete ho gaya, now let's prepare the README.",Dataset,ENG
+"Dataset complete ho gaya, now let's prepare the README.",complete,ENG
+"Dataset complete ho gaya, now let's prepare the README.",ho,URD
+"Dataset complete ho gaya, now let's prepare the README.",gaya,URD
+"Dataset complete ho gaya, now let's prepare the README.",now,ENG
+"Dataset complete ho gaya, now let's prepare the README.",let's,ENG
+"Dataset complete ho gaya, now let's prepare the README.",prepare,ENG
+"Dataset complete ho gaya, now let's prepare the README.",the,ENG
+"Dataset complete ho gaya, now let's prepare the README.",README,ENG
