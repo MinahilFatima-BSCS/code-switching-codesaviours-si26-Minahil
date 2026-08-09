@@ -68,11 +68,6 @@ I am going to university today.
 ```text
 Main aaj university ja rahi hoon.
 ```
-
-```text
-پاکستان ایک خوبصورت ملک ہے۔
-```
-
 ## 👩‍💻 Author
 
 **Minahil Fatima**
