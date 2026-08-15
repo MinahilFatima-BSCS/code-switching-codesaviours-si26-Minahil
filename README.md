@@ -39,6 +39,12 @@ https://urdu-word-classifier-app-fo8aifmytruwmjmmf8ebgq.streamlit.app/
 **Source Code:**
 https://github.com/MinahilFatima-BSCS/code-switching-codesaviours-si26-Minahil
 
+## Demo Video
+
+Watch the complete project demonstration:
+
+**Loom Demo:** https://www.loom.com/share/5f2f21dd67d94009a784ee79a59166b4
+
 ## Dataset
 
 * 150+ code-switching sentences
