@@ -1,49 +1,33 @@
-# 🔤 Urdu-English Code-Switching Classifier
+# Code Switching NLP — Urdu & English Language Identification
 
-A Machine Learning and NLP project developed to classify text into **Urdu (URD), English (ENG), and Mixed Urdu-English (MIX)** categories.
+A Natural Language Processing project that identifies Urdu/Roman Urdu and English words in mixed-language text.
 
-The project includes a trained classification model and an interactive **Streamlit web application** for testing code-switched text.
+## Why This Matters
 
-## 🎯 Objectives
+Roman Urdu and English are frequently used together in social media posts, chats, and informal communication. This code-switching project helps identify the language of individual words in mixed-language text, providing useful data for Urdu NLP and language identification applications.
 
-* Classify Urdu, English, and mixed-language text.
-* Apply NLP preprocessing and Machine Learning techniques.
-* Build an interactive Streamlit application.
-* Deploy the application for online testing.
+## Project Goal
 
-## 🏷️ Categories
+The goal of this project is to create and process a dataset containing naturally occurring Roman Urdu and English code-switching sentences for NLP research and language identification.
 
-| Label   | Description                  |
-| ------- | ---------------------------- |
-| **URD** | Urdu                         |
-| **ENG** | English                      |
-| **MIX** | Urdu-English / Code-Switched |
+The dataset contains **150+ naturally occurring Roman Urdu and English code-switching sentences**.
 
-### Example
+## Labels
 
-```text
-Main aaj computer science ka project complete kar rahi hoon.
-```
+The dataset uses three labels:
 
-**Expected Category:** MIX
+* **URD** — Urdu / Roman Urdu
+* **ENG** — English
+* **MIX** — Mixed or ambiguous word
 
-## 🛠️ Technologies
+## How It Works
 
-* Python
-* NLP
-* Machine Learning
-* Pandas
-* NumPy
-* Scikit-learn
-* Streamlit
-* GitHub
+The project uses a labelled dataset containing Roman Urdu and English words and sentences. The text is processed and classified according to the language label assigned to each word. The resulting data can be used to train and evaluate NLP models for code-switching and language identification. The trained model is available through Hugging Face.
 
-## 🔄 Workflow
+## Model
 
-```text
-Dataset → Preprocessing → Feature Extraction
-→ Model Training → Classification → Streamlit
-```
+**Hugging Face Model:**
+https://huggingface.co/Minahil-BSCS/urdu-eng-xlm-roberta
 
 ## 🌐 Live Demo
 
@@ -55,29 +39,62 @@ https://urdu-word-classifier-app-fo8aifmytruwmjmmf8ebgq.streamlit.app/
 **Source Code:**
 https://github.com/MinahilFatima-BSCS/code-switching-codesaviours-si26-Minahil
 
-The repository contains the dataset, notebooks, and project files.
+## Dataset
 
-## 🧪 Testing
+* 150+ code-switching sentences
+* Roman Urdu and English text
+* Three labels: URD, ENG, MIX
+* Dataset format: CSV
 
-Example inputs:
+## Results
 
-```text
-I am going to university today.
+The final evaluation reported during the project includes:
+
+* **URD F1 Score:** 0.95
+* **ENG F1 Score:** 0.9665
+* **Overall F1 Score:** 0.95826
+* **Overall Accuracy:** 0.9599
+
+## Technologies Used
+
+* Python
+* Google Colab
+* Pandas
+* Hugging Face Transformers
+* XLM-RoBERTa
+* Natural Language Processing
+* Jupyter Notebook
+
+## How to Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/MinahilFatima-BSCS/code-switching-codesaviours-si26-Minahil.git
+cd code-switching-codesaviours-si26-Minahil
 ```
 
-```text
-Main aaj university ja rahi hoon.
+Install the required Python packages:
+
+```bash
+pip install pandas transformers torch datasets scikit-learn
 ```
-## 👩‍💻 Author
 
-**Minahil Fatima**
-BS Computer Science
-**Code Saviours SI-26**
+Open the provided notebooks and run the cells step by step.
 
-## 🙏 Credits
+## Repository Contents
 
-This project was developed as part of the **Machine Learning / AI Internship Program at Code Saviours (SI-26)**.
+```text
+code-switching-codesaviours-si26-Minahil/
+│
+├── SI26_Week6_Minahil.ipynb
+├── SI26_Week7_Minahil.ipynb
+├── dataset.csv
+└── README.md
+```
 
-Special thanks to **Code Saviours** for their guidance, mentorship, and learning opportunity.
+## Internship
 
-**© 2026 Minahil Fatima**
+This project was developed as part of the **Code Saviours SI-26 Machine Learning Internship**.
+
+**Built by:** Minahil Fatima | Code Saviours SI-26 | 2026
